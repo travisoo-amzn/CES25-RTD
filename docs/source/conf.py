@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Amazon Experience Area 2024'
+project = 'D1HL Product Guide'
 copyright = '2024'
 author = 'SA Team'
 
