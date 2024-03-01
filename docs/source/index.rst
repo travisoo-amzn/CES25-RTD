@@ -11,7 +11,7 @@ Our booth is made up of different vignettes like the bedroom, the kitchen, a rec
 
 Ambient intelligence from Amazon, alongside the world’s leading brands, allows you the freedom to be more present with the people you love and doing what makes you feel better.
 
-.. image:: images/Map.png
+.. image:: images/floorplan/D1HL_FloorPlan.png
 
 Vignettes
 --------
@@ -19,10 +19,16 @@ Vignettes
 .. toctree::
    :maxdepth: 1
 
-   Bedroom
+   Entry
    Kitchen
-   RecRoom
+   DiningRoom
    LivingRoom
-   Wearables
+   Library
+   Bedroom
+   Bathroom
    Garage
+   Office
+   KidsRoom
    ASP
+   Patio
+   Deck
