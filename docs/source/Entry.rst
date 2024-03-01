@@ -6,7 +6,7 @@ Make every day better with Carrera Smart Glasses with Alexa. This all-new collab
 Make every day better with Echo Frames. Echo Frames are smart audio glasses designed to help you manage everything without interruption — and look good while doing it. Speakers direct sound to your ears without covering them, while minimizing what others around you can hear. Improved bass and crystal-clear highs, deliver an enhanced and discreet audio listening experience. Experience the perfect combination of fashion and function with the 3rd generation of Echo Frames with improved audio and battery life, now available in new styles and colors. Designed to wear all day - lightweight and comfortable with IPX4 water and sweat resistance. Compatible with most prescription lenses.
 
 |
-.. image:: images/Wearables.png
+.. image:: images/floorplan/D1HL_FloorPlan_Highlight_Entry.png
 |
 
 Amazon Echo Frames
