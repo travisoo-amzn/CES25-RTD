@@ -13,7 +13,7 @@ Ambient intelligence from Amazon, alongside the world’s leading brands, allows
 
 .. image:: images/floorplan/D1HL_FloorPlan.png
 
-Vignettes
+Rooms
 --------
 
 .. toctree::
