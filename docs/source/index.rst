@@ -1,7 +1,7 @@
-Amazon Experience Area
+Day 1 Home Lab
 ===================================
 
-Welcome to the Amazon Experience Area for 2024. Our exhibit this year will showcase how ambient intelligence can help make every moment of every day better. The experiences we are showcasing today illustrate how ambient intelligence developed by Amazon is being leveraged by the world's leading brands.
+Welcome to the Day 1 Home Lab. Our exhibit this year will showcase how ambient intelligence can help make every moment of every day better. The experiences we are showcasing today illustrate how ambient intelligence developed by Amazon is being leveraged by the world's leading brands.
 
 Having passed half a billion devices sold, and with tens of millions of interactions every hour, Alexa has become part of the family in millions of households. We’ve always thought of Alexa as an evolving service, and we’ve been continuously improving it since the day we introduced it in 2014.
 
