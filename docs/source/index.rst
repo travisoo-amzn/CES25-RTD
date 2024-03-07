@@ -1,5 +1,4 @@
-.. image:: images/D1HL_Logo_VertialAlignment.png
-  :alt: Day 1 Home Lab
+|D1HL Logo|
 
 |
 
@@ -9,7 +8,6 @@ Welcome to the Day 1 Home Lab. Our exhibit this year will showcase how ambient i
 
 [insert intro text here]
 
-|
 |
 |
 
