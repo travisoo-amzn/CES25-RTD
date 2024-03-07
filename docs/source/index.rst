@@ -5,8 +5,13 @@ Welcome to the Day 1 Home Lab. Our exhibit this year will showcase how ambient i
 
 [insert intro text here]
 
+
+
 .. image:: images/floorplan/D1HL_FloorPlan.png
   :alt: D1HL floor plan
+
+
+
 
 Rooms
 --------
