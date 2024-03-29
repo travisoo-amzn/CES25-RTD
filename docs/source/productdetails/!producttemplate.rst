@@ -1,5 +1,5 @@
 Example Product Name
------
+**********
 
 .. image:: images/products/!exampleproduct.jpeg
 
