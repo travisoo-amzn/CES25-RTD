@@ -6,9 +6,9 @@ Explore how ambient intelligence from Amazon can make your time away from home s
 While being taken care of, let Alexa make your stay more comfortable. Adjust the temperature to your liking with the ecobee Smart Thermostat and let some natural light in with smart shades. If you need a hand, the Echo Show 8 will alert the staff to provide urgent assistance.
 
 |
-.. image:: images/ASP.png
+.. image:: images/floorplan/D1HL_FloorPlan_Highlight_ASP.png
+    :alt: floor map
 |
 
 .. include:: productdetails/!producttemplate.rst
-
 .. include:: productdetails/!producttemplate.rst

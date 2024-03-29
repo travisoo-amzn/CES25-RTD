@@ -1,10 +1,11 @@
 Bathroom
-=====
+###########
 
 Blurb about the bathroom
 
 |
 .. image:: images/floorplan/D1HL_FloorPlan_Highlight_Bathroom.png
+    :alt: floor map
 |
 
 .. include:: productdetails/Nailbot.rst
