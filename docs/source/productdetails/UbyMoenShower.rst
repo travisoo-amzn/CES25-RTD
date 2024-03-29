@@ -11,11 +11,11 @@ Control your digital shower your way. Moen Smart Shower technology allows for a 
 
 **Things to try**
 
-*"Alexa, turn on the shower"
+*"Alexa, turn on the shower"*
 
-*"Alexa, set the shower to monsoon"
+*"Alexa, set the shower to monsoon"*
 
-*"Alexa, turn off the shower"
+*"Alexa, turn off the shower"*
 
 .. note::
     Please turn off the shower at the end of the demonstration. We don't want to waste water!

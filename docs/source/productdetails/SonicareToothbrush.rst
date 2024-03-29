@@ -11,7 +11,7 @@ A brush that learns and adapts to how you brush, for your most complete clean ye
 
 **Things to try**
 
-Smart reorders will automatically reorder replacement toothbrush heads when customers are running low. **[This unit is for diplay only.]
+Smart reorders will automatically reorder replacement toothbrush heads when customers are running low. **[This unit is for diplay only.]**
 
 ------------
 
