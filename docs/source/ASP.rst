@@ -9,6 +9,8 @@ While being taken care of, let Alexa make your stay more comfortable. Adjust the
 .. image:: images/ASP.png
 |
 
+.. include:: Bathroom.rst
+
 Amazon Echo
 -----
 
