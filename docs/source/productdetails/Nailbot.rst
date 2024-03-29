@@ -1,7 +1,7 @@
 Nailbot
 **********
 
-.. image:: images/products/!exampleproduct.jpeg
+.. image:: images/products/PreemadonnaNailbot.png
 
 🔹 Preemadonna |  🌐 `Product Webpage <https://preemadonna.com/>`_
 
