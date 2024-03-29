@@ -1,9 +1,9 @@
 U by Moen Smart Shower
------
+**********
 
 .. image:: images/products/MoenUbyMoenShower.png
 
-🔹 Moen  |  🌐 `Product Webpage <https://www.amazon.com/Moen-TS3302BL-Connected-Bathroom-Controller/dp/B07MV32JD4>`_
+🔹 Moen  |  🌐 `Product Webpage <https://www.amazon.com/dp/B0757H2GBD>`_
 
 **Details** 
 
@@ -11,12 +11,16 @@ Control your digital shower your way. Moen Smart Shower technology allows for a 
 
 **Things to try**
 
-*"Alexa, turn on the shower"*
+*"Alexa, turn on the shower"
 
-*"Alexa, set the shower to monsoon"*
+*"Alexa, set the shower to monsoon"
 
-*"Alexa, turn off the shower"*
+*"Alexa, turn off the shower"
 
-|
+.. note::
+    Please turn off the shower at the end of the demonstration. We don't want to waste water!
+
+------------
+
 |
 |
