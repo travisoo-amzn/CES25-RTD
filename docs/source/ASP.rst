@@ -10,3 +10,5 @@ While being taken care of, let Alexa make your stay more comfortable. Adjust the
 |
 
 .. include:: productdetails/!producttemplate.rst
+
+.. include:: productdetails/!producttemplate.rst

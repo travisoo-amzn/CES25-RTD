@@ -18,11 +18,7 @@ The details of our product go here. A description of the product's capabilities,
 .. note::
     This is a note or callout. This can be used if we want to draw attention to a specific issue or update about this product.
 
-
-
-|
-
 ------------
 
 |
-|
+
