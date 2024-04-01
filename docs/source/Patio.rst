@@ -8,6 +8,8 @@ Blurb about patio
     :alt: floor map
 |
 
+.. include:: productdetails/RingBatteryDoorbellPro.rst
 .. include:: productdetails/MoenSmartIrrigationSystem.rst
+.. include:: productiondetails/RingStickUpCamPro.rst
 .. include:: productdetails/TraegerGrillsProSeries575.rst
 

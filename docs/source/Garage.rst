@@ -8,5 +8,4 @@ Allow your evenings in your home to become safer. Ambient technologies help give
     :alt: floor map
 |
 
-.. include:: productdetails/!producttemplate.rst
-.. include:: productdetails/!producttemplate.rst
+.. include:: productdetails/BlinkVideoDoorbell.rst

@@ -12,6 +12,7 @@ WiFIRE-connected Traeger grills can be controled with your voice; you can change
 **Things to try**
 
 **[This unit is for display only and is not functional.]**
+
 ------------
 
 |
