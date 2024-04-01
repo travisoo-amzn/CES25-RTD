@@ -8,5 +8,5 @@ Discover a world of convenience in the kitchen that allows every part of every d
     :alt: floor map
 |
 
-.. include:: productdetails/!producttemplate.rst
+.. include:: productdetails/AmazonSmartAirQualityMonitor.rst
 .. include:: productdetails/!producttemplate.rst
