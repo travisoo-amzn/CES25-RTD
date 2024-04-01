@@ -8,6 +8,10 @@ Harness the power of ambient intelligence with calmer sunrises and more serene e
     :alt: floor map
 |
 
+.. include:: productdetails/EchoFrames.rst
+.. include:: productdetails/EchoShow5.rst
+.. include:: productdetails/KindleScribe.rst
 .. include:: productdetails/PushActiveWirelessEarbuds.rst
 .. include:: productdetails/S7MaxVUltraRobotVacuum.rst
+.. include:: productdetails/T9SmartThermostat.rst
 .. include:: productdetails/VornadoOSCR37AETowerFan.rst

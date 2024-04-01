@@ -37,3 +37,9 @@ Rooms
    ASP
    Patio
    Deck
+
+..
+  A useful guide for syntax and formatting: https://sublime-and-sphinx-guide.readthedocs.io/en/latest/index.html
+  RTD Project: https://readthedocs.org/projects/d1hl-rtd/
+  RTD Page: https://d1hl-rtd.readthedocs.io/
+  Github: https://github.com/travisoo-amzn/D1HL-RTD/ 
