@@ -8,5 +8,4 @@ Make the time you spend in your living room easier by allowing Alexa to help you
     :alt: floor map
 |
 
-.. include:: productdetails/!producttemplate.rst
-.. include:: productdetails/!producttemplate.rst
+.. include:: productdetails/SonosArc.rst

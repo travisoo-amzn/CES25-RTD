@@ -8,5 +8,8 @@ Blurb about kids Room
     :alt: floor map
 |
 
-.. include:: productdetails/!producttemplate.rst
-.. include:: productdetails/!producttemplate.rst
+.. inlcude:: productdetails/YeelightCubeSmartLamp.rst
+.. include:: productdetails/AmazonEchoShow5Disney.rst
+.. inlcude:: productdetails/KidKraftWoddenKitchen.rst
+.. include:: productdetails/EmbodiedMoxie.rst
+.. include:: productdetails/GemmiTwerkingBear.rst

@@ -18,7 +18,7 @@ Welcome to the Day 1 Home Lab. Our exhibit this year will showcase how ambient i
 |
 |
 
-Rooms
+Products by Room
 --------
 
 .. toctree::

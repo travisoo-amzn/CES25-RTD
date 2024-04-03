@@ -8,5 +8,6 @@ Blurb about library
     :alt: floor map
 |
 
-.. include:: productdetails/!producttemplate.rst
-.. include:: productdetails/!producttemplate.rst
+.. include:: productdetails/BlinkMiniPanTiltCamera.rst
+.. include:: productdetails/AmazonFireMax11.rst
+.. include:: productdetails/RingAlarmPro.rst

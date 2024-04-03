@@ -9,4 +9,15 @@ Discover a world of convenience in the kitchen that allows every part of every d
 |
 
 .. include:: productdetails/AmazonSmartAirQualityMonitor.rst
-.. include:: productdetails/!producttemplate.rst
+.. include:: productdetails/AmazonSmartSoapDispenser.rst
+.. include:: productdetails/AmazonEchoPop.rst
+.. include:: productdetails/AmazonEchoShow10.rst
+.. include:: productdetails/AmazonEchoShow15.rst
+.. include:: productdetails/AnovaPrecisionOven.rst
+.. include:: productdetails/TigerRiceCooker.rst
+.. include:: productdetails/SamsungBespokeFridgeWithFamilyHubPlus.rst
+.. include:: productdetails/SiemensSmartKitchenDock.rst
+.. include:: productdetails/SwanSmartKettle.rst
+.. include:: productdetails/ToshibaSmartMicrowave.rst
+.. include:: productdetails/HomeplenishSmartTowelHolder.rst
+.. include:: productdetails/SpinnCoffeeMaker.rst
