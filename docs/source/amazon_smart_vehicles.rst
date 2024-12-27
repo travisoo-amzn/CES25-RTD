@@ -1,6 +1,9 @@
 Amazon Smart Vehicles - Alexa Custom Assistant (ACA) + BMW
 ###########
 
+.. note::
+    This vignette will be staffed by Product Specialists who will interact with attendees. The information below is just informational and does not replace 
+
 .. image:: images/amazon_smart_vehicles.png
     :alt: Amazon Smart Vehicles
 
