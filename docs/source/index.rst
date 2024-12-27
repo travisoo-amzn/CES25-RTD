@@ -25,6 +25,7 @@ Vignettes
    fire_tv_ai-powered_search_and_content
    zoox
    project_kuiper
+   amazon_smart_vehicles
 
 ..
   A useful guide for syntax and formatting: https://sublime-and-sphinx-guide.readthedocs.io/en/latest/index.html
