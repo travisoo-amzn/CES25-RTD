@@ -4,7 +4,8 @@ Zoox
 .. image:: images/zoox.png
     :alt: Zoox
 
-**⭐ Zoox Robotaxi ⭐**
+⭐ Zoox Robotaxi
+**********
 
 🌐 `Webpage <https://www.zoox.com/vehicle>`_
 

@@ -20,7 +20,8 @@ Project Kuiper is Amazon's low Earth orbit satellite broadband network, designed
 * Commercial service expected to begin in 2025.
 * The Kuiper system demonstrates Amazon’s commitment to innovation to serve customers by including advanced technologies like 100 Gbps optical inter-satellite links, the Amazon-designed Prometheus chip, and Ka-band phased array antennas.
 
-**⭐ Kuiper Antennas ⭐**
+⭐ Kuiper Antennas
+**********
 
 * **Compact**: 7 x 7 inches inches square, supporting download speeds up to 100 Mbps, ideal for portability
 * **Standard**: 11 x 11 inches, supporting download speeds up to 400 Mbps
