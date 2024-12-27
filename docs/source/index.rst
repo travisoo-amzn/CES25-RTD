@@ -16,7 +16,6 @@ Vignettes
 
 .. toctree::
    :maxdepth: 1
-
    kindle_showcase
    amazon_1p_product_showcase
    3p_partner_product_showcase
