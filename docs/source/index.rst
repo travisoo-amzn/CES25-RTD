@@ -21,6 +21,9 @@ Vignettes
    amazon_1p_product_showcase
    3p_partner_product_showcase
    fire_tv_ai_art_gallery_wall
+   fire_tv_immersive_demo_room
+   fire_tv_ai-powered_search_and_content
+   zoox
 
 ..
   A useful guide for syntax and formatting: https://sublime-and-sphinx-guide.readthedocs.io/en/latest/index.html
