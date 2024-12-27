@@ -47,7 +47,7 @@ Introducing the reimagined Kindle Scribe, a versatile companion that seamlessly 
 * No distractions - Focus on your thoughts with a device purpose-built for reading, writing, and marking up documents. No notifications or social media.
 * Premium Pen included - No need to set up or charge, just start writing. Upgraded design, shortcut button, and soft eraser provide a perfect writing companion.
 
-
+------------
 
 **All Products** 
 
