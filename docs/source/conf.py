@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'D1HL Product Guide'
-copyright = '2024'
+project = 'CES 2025 Staff Guide'
+copyright = '2025'
 author = 'SA Team'
 
 release = '0.1'
