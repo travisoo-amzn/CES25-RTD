@@ -8,7 +8,8 @@ Amazon Smart Vehicles - Alexa Custom Assistant (ACA) + BMW
     :alt: Amazon Smart Vehicles
 
 ⭐ BMW Custom Assistant (BCA/ACA)
-###########
+**********
+
 
 Alexa Custom Assistant (ACA) enables device makers and service providers to create intelligent assistants tailored to their brand personality and customer needs. ACA enables auto manufacturers, like BMW, to provide customers with the next generation of ambient experiences. BMW customers can ask the BMW Custom Assistant (BCA) for information about the vehicle, control music and other media, help with navigation
 
@@ -18,7 +19,8 @@ Alexa Custom Assistant (ACA) enables device makers and service providers to crea
 ------------
 
 BMW X3
-###########
+**********
+
 
 🌐 `Product Webpage <https://www.bmwusa.com/vehicles/x-series/x3/bmw-x3.html>`_
 
