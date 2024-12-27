@@ -4,7 +4,7 @@
 .. image:: images/3p_partner_product_showcase.png
     :alt: 3P Partner Product Showcase
 
-**⭐ Highlighted Products and Features**
+**Highlighted Products and Features**
 
 ⭐Hisense Fire TV 
 **********

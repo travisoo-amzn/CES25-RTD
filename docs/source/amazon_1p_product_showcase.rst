@@ -4,10 +4,10 @@ Amazon 1P Product Showcase - Alexa, Echo, Fire Tablets, Ring, Blink, eero
 .. image:: images/amazon_1p_product_showcase.png
     :alt: amazon 1P product showcase
 
-**⭐ Highlighted Products and Features**
+**Highlighted Products and Features**
 
 ⭐ Blink Sync Module XR 
-------------
+**********
 
 https://www.amazon.com/dp/B0B198XD6X
 
@@ -23,7 +23,7 @@ Introducing the Blink Sync Module XR, a game-changing hub that expands the reach
 
 
 ⭐ Echo Show 21 
-------------
+**********
 
 https://www.amazon.com/dp/B0CDWWS127
 
@@ -42,7 +42,7 @@ Elevate your home experience with the groundbreaking 21" Echo Show, a stunning F
 
 
 ⭐ eero Outdoor 7 
-------------
+**********
 
 https://www.amazon.com/dp/B0CTMSGRN6
 
@@ -61,7 +61,7 @@ Transform your outdoor living space with eero Outdoor 7, a robust Wi-Fi solution
 
 
 ⭐ Ring Smart Video Search 
-------------
+**********
 
 https://blog.ring.com/products-innovation/ring-launches-ai-powered-smart-video-search/
 
@@ -83,12 +83,12 @@ Experience a new dimension of home awareness with Ring's Smart Video Search, an 
 * Sophisticated input moderation ensures responsible and appropriate use
 * Designed to enhance privacy while providing valuable insights into daily life
 
-
+------------
 
 **All Products** 
 
 Blink Mini 2
-------------
+**********
 
 https://www.amazon.com/dp/B0BWX1D2DW
 
@@ -109,7 +109,7 @@ Elevate your home's awareness with the Blink Mini 2, a versatile camera that sea
 
 
 Blink Outdoor 4 with Battery Accessory
-------------
+**********
 
 https://www.amazon.com/dp/B0B1N5FK48
 
@@ -128,7 +128,7 @@ Elevate your home security with Blink Outdoor 4, a cutting-edge wireless camera 
 
 
 ⭐ Blink Sync Module XR  
-------------
+**********
 
 https://www.amazon.com/dp/B0B198XD6X
 
@@ -144,7 +144,7 @@ Introducing the Blink Sync Module XR, a game-changing hub that expands the reach
 
 
 Echo Dot | Latin Grammys 2024 Edition
-------------
+**********
 
 [insert product link] 
 
@@ -157,7 +157,7 @@ Echo Dot | Latin Grammys 2024 Edition
 
 
 Echo Dot | Southern University Human Jukebox Edition
-------------
+**********
 
 https://www.thejukeboxnation.org/amazon-echo-dot
 
@@ -170,7 +170,7 @@ https://www.thejukeboxnation.org/amazon-echo-dot
 
 
 Echo Frames
-------------
+**********
 
 https://www.amazon.com/dp/B09SVHP9X8
 
@@ -188,7 +188,7 @@ Step into the future of wearable technology with Carrera Smart Glasses, seamless
 
 
 Echo Hub
-------------
+**********
 
 https://www.amazon.com/dp/B0BCR7M9KX
 
@@ -207,7 +207,7 @@ Introducing Echo Hub, the intuitive command center that seamlessly integrates in
 
 
 Echo Pop | Officially Licensed NFL Bundle
-------------
+**********
 
 https://www.amazon.com/dp/B0D89DSFFX
 
@@ -220,7 +220,7 @@ https://www.amazon.com/dp/B0D89DSFFX
 
 
 Echo Pop | Wicked Edition
-------------
+**********
 
 [insert product link] 
 
@@ -233,7 +233,7 @@ Echo Pop | Wicked Edition
 
 
 Echo Show 8
-------------
+**********
 
 https://www.amazon.com/dp/B0BLS3Y632
 
@@ -252,7 +252,7 @@ Experience the next evolution of smart home technology with the all-new Echo Sho
 
 
 Echo Show 15
-------------
+**********
 
 https://www.amazon.com/dp/B0C5DPSW5Y
 
@@ -270,7 +270,7 @@ Introducing the all-new Echo Show 15, a stunning 15.6" Full-HD smart display tha
 
 
 ⭐ Echo Show 21
-------------
+**********
 
 https://www.amazon.com/dp/B0CDWWS127
 
@@ -289,7 +289,7 @@ Elevate your home experience with the groundbreaking 21" Echo Show, a stunning F
 
 
 Echo Spot
-------------
+**********
 
 https://www.amazon.com/dp/B0BFC8DR7C
 
@@ -307,7 +307,7 @@ Introducing the reimagined Echo Spot, a sophisticated smart alarm clock that sea
 
 
 eero Max 7
-------------
+**********
 
 https://www.amazon.com/dp/B09HJJN7MS
 
@@ -325,7 +325,7 @@ Experience the future of home connectivity with eero Max 7, a powerhouse that re
 
 
 ⭐ eero Outdoor 7
-------------
+**********
 
 https://www.amazon.com/dp/B0CTMSGRN6
 
@@ -344,7 +344,7 @@ Transform your outdoor living space with eero Outdoor 7, a robust Wi-Fi solution
 
 
 Fire HD 8 Tablet
-------------
+**********
 
 https://www.amazon.com/dp/B0CVDN4QS6
 
@@ -361,7 +361,7 @@ Elevate your daily digital experience with the Fire HD 8, a versatile tablet des
 
 
 Fire Max 11 Tablet
-------------
+**********
 
 https://www.amazon.com/dp/B0B1VQ1ZQY
 
@@ -380,7 +380,7 @@ Discover the Fire Max 11, a versatile companion designed to enhance every aspect
 
 
 Ring and Kidde Smoke Alarm
-------------
+**********
 
 [insert product link] 
 
@@ -393,7 +393,7 @@ Ring and Kidde Smoke Alarm
 
 
 Ring Alarm Pro
-------------
+**********
 
 https://www.amazon.com/dp/B08HSTJPM5
 
@@ -411,7 +411,7 @@ Elevate your home's intelligence with the Ring Alarm Pro, a comprehensive securi
 
 
 Ring Battery Doorbell Pro
-------------
+**********
 
 https://www.amazon.com/dp/B0B2BY4ZG7
 
@@ -429,7 +429,7 @@ Elevate your home's entrance with the Ring Battery Doorbell Pro, a cutting-edge 
 
 
 Ring Doorbell Pro 2
-------------
+**********
 
 https://www.amazon.com/dp/B086Q54K53
 
@@ -450,7 +450,7 @@ Experience a new era of home security with the Ring Wired Doorbell Pro, a sophis
 
 
 Ring Floodlight Cam Wired Pro
-------------
+**********
 
 https://www.amazon.com/dp/B0CG6VFFVL
 
@@ -469,7 +469,7 @@ Elevate your home's security with the Ring Floodlight Cam Wired Pro, a sophistic
 
 
 Ring Pan-Tilt Indoor Cam
-------------
+**********
 
 https://www.amazon.com/dp/B0CG2VS5FD
 
@@ -489,7 +489,7 @@ Experience a new level of home awareness with the Ring Pan-Tilt Indoor Cam, a ve
 
 
 ⭐ Ring Smart Video Search
-------------
+**********
 
 https://blog.ring.com/products-innovation/ring-launches-ai-powered-smart-video-search/
 
@@ -513,7 +513,7 @@ Experience a new dimension of home awareness with Ring's Smart Video Search, an 
 
 
 Ring Spotlight Cam Pro
-------------
+**********
 
 https://www.amazon.com/dp/B09DRX62ZV
 
@@ -532,7 +532,7 @@ Elevate your home's security with the Ring Spotlight Cam Pro, a sophisticated se
 
 
 Ring Stick Up Cam Pro
-------------
+**********
 
 https://www.amazon.com/dp/B09CKN55DW
 
