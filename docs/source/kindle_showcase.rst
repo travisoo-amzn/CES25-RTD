@@ -19,13 +19,13 @@ https://www.amazon.com/dp/B0CN3XR57P
 Immerse yourself in a world of vibrant literature with the new Kindle featuring a 7" Colorsoft display. This innovative e-reader seamlessly integrates into your daily routine, offering a paper-like experience with vivid colors that enhance every page. Adaptive lighting and waterproof design ensure uninterrupted reading in any setting, from sunny beaches to late-night bedtime stories. With marathon battery life and access to millions of titles, it's your portable library for every moment. The customizable Page Color feature adapts to your preferences, making digital reading more accessible and enjoyable than ever before.
 
 
-* Pages that pop - Now with enhanced display features and faster page turns. Includes a cover, a 6-month Amazon Kids+ subscription, and a 2-year warranty—up to a $187 value.
-     Amazon Kids+ is a subscription designed for kids aged 3-12, providing unlimited access to thousands of age-appropriate books, including classic chapter books and graphic novel favorites. Included content is curated by age range, so it safely evolves with a child's interests and maturity. After 6 months, your subscription will automatically renew every month starting at just $5.99/month plus applicable tax. You may cancel at any time by visiting the Amazon Parent Dashboard or contacting Customer Service.
+* Pages that pop - Now with enhanced display features and faster page turns. Includes a cover, a 6-month Amazon Kids+ subscription, and a 2-year warranty—up to a $187 value. 
+ * Amazon Kids+ is a subscription designed for kids aged 3-12, providing unlimited access to thousands of age-appropriate books, including classic chapter books and graphic novel favorites. Included content is curated by age range, so it safely evolves with a child's interests and maturity. After 6 months, your subscription will automatically renew every month starting at just $5.99/month plus applicable tax. You may cancel at any time by visiting the Amazon Parent Dashboard or contacting Customer Service.
 * Build healthy reading habits - Kids read, on average, more than an hour a day when they sit down with their Kindle. Kindle Kids is purpose-built for reading (not a toy)—no apps, videos, or games.
-* Effortless reading in any light - With a 25% brighter front light at max setting—as bright as Kindle Paperwhite—light and dark mode, and 6″ glare-free display.
-     Easy to use - The compact, lightweight design allows for one-handed reading. With 16 GB of storage, holds thousands of books. A single charge via USB-C lasts up to 6 weeks.
-     Includes a 2-year worry-free guarantee. If it breaks, return it and we'll replace it for free.
-     The Parent Dashboard allows you to add books from your account to your kid's library, view reading progress, adjust age filters, set a device bedtime, and more.
+* Effortless reading in any light - With a 25% brighter front light at max setting—as bright as Kindle Paperwhite—light and dark mode, and 6″ glare-free display. 
+ * Easy to use - The compact, lightweight design allows for one-handed reading. With 16 GB of storage, holds thousands of books. A single charge via USB-C lasts up to 6 weeks.
+ * Includes a 2-year worry-free guarantee. If it breaks, return it and we'll replace it for free.
+ * The Parent Dashboard allows you to add books from your account to your kid's library, view reading progress, adjust age filters, set a device bedtime, and more.
 
 
 ⭐ Kindle Scribe 
@@ -82,12 +82,12 @@ Immerse yourself in a world of vibrant literature with the new Kindle featuring 
 
 
 * Pages that pop - Now with enhanced display features and faster page turns. Includes a cover, a 6-month Amazon Kids+ subscription, and a 2-year warranty—up to a $187 value.
-     Amazon Kids+ is a subscription designed for kids aged 3-12, providing unlimited access to thousands of age-appropriate books, including classic chapter books and graphic novel favorites. Included content is curated by age range, so it safely evolves with a child's interests and maturity. After 6 months, your subscription will automatically renew every month starting at just $5.99/month plus applicable tax. You may cancel at any time by visiting the Amazon Parent Dashboard or contacting Customer Service.
+ * Amazon Kids+ is a subscription designed for kids aged 3-12, providing unlimited access to thousands of age-appropriate books, including classic chapter books and graphic novel favorites. Included content is curated by age range, so it safely evolves with a child's interests and maturity. After 6 months, your subscription will automatically renew every month starting at just $5.99/month plus applicable tax. You may cancel at any time by visiting the Amazon Parent Dashboard or contacting Customer Service.
 * Build healthy reading habits - Kids read, on average, more than an hour a day when they sit down with their Kindle. Kindle Kids is purpose-built for reading (not a toy)—no apps, videos, or games.
 * Effortless reading in any light - With a 25% brighter front light at max setting—as bright as Kindle Paperwhite—light and dark mode, and 6″ glare-free display.
-     Easy to use - The compact, lightweight design allows for one-handed reading. With 16 GB of storage, holds thousands of books. A single charge via USB-C lasts up to 6 weeks.
-     Includes a 2-year worry-free guarantee. If it breaks, return it and we'll replace it for free.
-     The Parent Dashboard allows you to add books from your account to your kid's library, view reading progress, adjust age filters, set a device bedtime, and more.
+ * Easy to use - The compact, lightweight design allows for one-handed reading. With 16 GB of storage, holds thousands of books. A single charge via USB-C lasts up to 6 weeks.
+ * Includes a 2-year worry-free guarantee. If it breaks, return it and we'll replace it for free.
+ * The Parent Dashboard allows you to add books from your account to your kid's library, view reading progress, adjust age filters, set a device bedtime, and more.
 
 
 Kindle Kids Edition 
@@ -136,7 +136,7 @@ https://www.amazon.com/dp/B0CFPS7ZY9
  
 A waterproof Kindle with adjustable warm light for kids. Kids read, on average, more than an hour a day when they sit down with their Kindle. They love the access to thousands of kid-friendly books, and parents love the two-year worry-free guarantee
 
-* The ultimate reading device for kids – Includes 6 months of Amazon Kids+, a kid-friendly cover, and a 2-year worry-free guarantee — up to a $242 value.
+*  The ultimate reading device for kids – Includes 6 months of Amazon Kids+, a kid-friendly cover, and a 2-year worry-free guarantee — up to a $242 value.
 *  Our fastest, thinnest Kindle Paperwhite Kids ever – Ready, set, read on the next-generation 7” Paperwhite display with higher contrast ratio and 25% faster page turns.
 *  Includes 6 months of Amazon Kids+, a subscription designed for kids aged 3-12, providing unlimited access to thousands of age-appropriate books. After 6 months, your subscription will automatically renew every month starting at just $5.99/month plus applicable tax. You may cancel at any time by visiting the Amazon Parent Dashboard or contacting Customer Service.
 *  Stay in the story – Designed to keep kids focused on reading with no notifications, apps, videos, or games.
