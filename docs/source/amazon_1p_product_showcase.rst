@@ -1,10 +1,8 @@
-Kindle Showcase
+Amazon 1P Product Showcase - Alexa, Echo, Fire Tablets, Ring, Blink, eero
 ###########
 
-The best devices for reading and writing, period. Meet the all-new Kindle family.
-
-.. image:: images/kindle_showcase.png
-    :alt: kindle showcase
+.. image:: images/amazon_1p_product_showcase.png
+    :alt: amazon 1P product showcase
 
 **Highlighted Products and Features**
 

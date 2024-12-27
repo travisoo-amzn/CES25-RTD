@@ -10,8 +10,6 @@ The exhibition further emphasizes Amazon's role in automotive innovation, featur
 
 .. image:: images/floorplan.png
   :alt: floor plan
-|
-|
 
 Vignettes
 --------
@@ -20,6 +18,7 @@ Vignettes
    :maxdepth: 1
 
    kindle_showcase
+   amazon_1p_product_showcase
 
 ..
   A useful guide for syntax and formatting: https://sublime-and-sphinx-guide.readthedocs.io/en/latest/index.html
