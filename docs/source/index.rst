@@ -1,42 +1,24 @@
-.. image:: images/D1HL_Logo_VertialAlignment.png
-  :width: 400
-  :alt: Day 1 Home Lab
-
-
-Welcome to the Day 1 Home Lab. Our exhibit this year will showcase how ambient intelligence can help make every moment of every day better. The experiences we are showcasing today illustrate how ambient intelligence developed by Amazon is being leveraged by the world's leading brands.
-
+**Amazon Devices & Services Exhibit 2025**
 |
-
-[insert intro text here]
-
+|
+Amazon's showcase at CES 2025 demonstrates a comprehensive integration of smart technology into everyday life. The exhibit features a connected apartment vignette, showcasing how Amazon's devices work in harmony with other brands to create an effortless living experience. Highlights include the new Kindle Colorsoft with vibrant color display, Fire TV's innovative features and Ambient Experience, and a premium sound experience zone. The showcase also presents Zoox, Amazon's purpose-built robotaxi, and Project Kuiper, aimed at extending global internet connectivity.
+|
+The exhibition further emphasizes Amazon's role in automotive innovation, featuring the BMW Intelligent Personal Assistant powered by Alexa Custom Assistant Technology. This AI-powered system enhances the in-car experience with natural dialogue interactions for search, trip planning, and navigation. Amazon's overall message at CES 2025 is clear: their technology is designed to seamlessly integrate into daily routines, simplifying tasks, sparking creativity, and bringing people closer together, all while remaining unobtrusive in users' lives.
 |
 |
 
-.. image:: images/floorplan/D1HL_FloorPlan.png
-  :alt: D1HL floor plan
-
+.. image:: images/floorplan.png
+  :alt: floor plan
 |
 |
 
-Products by Room
+Vignettes
 --------
 
 .. toctree::
    :maxdepth: 1
 
-   Entry
-   Kitchen
-   DiningRoom
-   LivingRoom
-   Library
-   Bedroom
-   Bathroom
-   Garage
-   Office
-   KidsRoom
-   ASP
-   Patio
-   Deck
+   kindle_showcase
 
 ..
   A useful guide for syntax and formatting: https://sublime-and-sphinx-guide.readthedocs.io/en/latest/index.html
