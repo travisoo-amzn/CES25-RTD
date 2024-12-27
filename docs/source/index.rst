@@ -19,6 +19,8 @@ Vignettes
 
    kindle_showcase
    amazon_1p_product_showcase
+   3p_partner_product_showcase
+   fire_tv_ai_art_gallery_wall
 
 ..
   A useful guide for syntax and formatting: https://sublime-and-sphinx-guide.readthedocs.io/en/latest/index.html

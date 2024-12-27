@@ -1,10 +1,8 @@
-Kindle Showcase
+3P Partner Product Showcase
 ###########
 
-The best devices for reading and writing, period. Meet the all-new Kindle family.
-
-.. image:: images/kindle_showcase.png
-    :alt: kindle showcase
+.. image:: images/3p_partner_project_showcase.png
+    :alt: 3P Partner Product Showcase
 
 **⭐ Highlighted Products and Features ⭐**
 

@@ -1,10 +1,8 @@
-Kindle Showcase
+Fire TV AI Art Gallery Wall
 ###########
 
-The best devices for reading and writing, period. Meet the all-new Kindle family.
-
-.. image:: images/kindle_showcase.png
-    :alt: kindle showcase
+.. image:: images/fire_tv_ai_art_gallery_wall.png
+    :alt: Fire TV AI Art Gallery Wall
 
 **⭐ Highlighted Products and Features ⭐**
 
