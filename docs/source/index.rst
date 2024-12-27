@@ -24,6 +24,7 @@ Vignettes
    fire_tv_immersive_demo_room
    fire_tv_ai-powered_search_and_content
    zoox
+   project_kuiper
 
 ..
   A useful guide for syntax and formatting: https://sublime-and-sphinx-guide.readthedocs.io/en/latest/index.html
