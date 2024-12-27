@@ -4,18 +4,31 @@
 .. image:: images/3p_partner_product_showcase.png
     :alt: 3P Partner Product Showcase
 
-**⭐ Highlighted Products and Features ⭐**
+**⭐ Highlighted Products and Features**
 
-.. include:: productdetails/!producttemplate.rst
-.. include:: productdetails/!producttemplate.rst
+⭐Hisense Fire TV 
+**********
+
+[insert product link] 
+
+**Details**
+
+[Insert placard copy]
+
+* [insert bulleted product details]
+* [insert bulleted product details]
+
+------------
 
 **All Products** 
 
 Abode Cam 2
+**********
 
 https://www.amazon.com/dp/B08YP8FXMF
 
-Details 
+**Details**
+ 
 Experience unparalleled peace of mind with the latest outdoor security camera, designed to seamlessly integrate into your daily life. This versatile device thrives in temperatures from -4 to 113°F, ensuring round-the-clock vigilance. Its robust WiFi connectivity allows flexible placement without compromising on video quality or data usage. Equipped with Starlight technology, it captures vivid, full-color footage even in low-light conditions, transitioning smoothly to crisp black-and-white when darkness falls. The two-way voice feature facilitates real-time communication, perfect for managing deliveries or deterring unwanted visitors. Access live streams anytime, anywhere, transforming your smartphone into a portable security hub that keeps you connected to your home, no matter where life takes you.
 
 * USE OUTDOORS WITH CONFIDENCE: Works indoors or out with a temperature range of -4 to 113°F. Mount your camera outdoors with the peace of mind that comes with the knowledge that your camera will be able to withstand the elements and alert you to and record any suspicious activity.
@@ -26,10 +39,12 @@ Experience unparalleled peace of mind with the latest outdoor security camera, d
 
 
 Aqara Presence Sensor FP2
+**********
 
 https://www.amazon.com/dp/B0DG1XJM1P
 
-Details 
+**Details**
+ 
 Experience a new dimension of home awareness with the Aqara Presence Sensor FP2, a sophisticated device that seamlessly integrates into your living spaces. This innovative sensor utilizes advanced mmWave radar technology to detect up to five individuals simultaneously, offering unparalleled precision in monitoring rooms up to 40 m². Customize your environment by dividing it into 30 distinct zones, each with its own automation possibilities. From sleep monitoring to fall detection, the FP2 adapts to various needs, enhancing both comfort and safety. Its versatile installation options, including corner mounting, eliminate dead zones and maximize coverage. Compatible with major smart home ecosystems, it offers seamless integration without compromising privacy. Experience responsive, intelligent living that adapts to your routines, all while maintaining data security through local processing, even during internet outages.
 
 * Aqara Presence Sensor FP2 Bracket Set, mmWave Radar Wired Motion Sensor, Zone Positioning, Multi-Person & Fall Detection, High Precision, Supports HomeKit, Alexa and Home Assistant
@@ -41,10 +56,12 @@ Experience a new dimension of home awareness with the Aqara Presence Sensor FP2,
 
 
 Aqara Smart Lock U300
+**********
 
 https://www.amazon.com/dp/B0D496H9YV
 
-Details 
+**Details**
+ 
 Experience a new dimension of home awareness with the Aqara Presence Sensor FP2, a sophisticated device that seamlessly integrates into your living spaces. This innovative sensor utilizes advanced mmWave radar technology to detect up to five individuals simultaneously, offering unparalleled precision in monitoring rooms up to 40 m². Customize your environment by dividing it into 30 distinct zones, each with its own automation possibilities. From sleep monitoring to fall detection, the FP2 adapts to various needs, enhancing both comfort and safety. Its versatile installation options, including corner mounting, eliminate dead zones and maximize coverage. Compatible with major smart home ecosystems, it offers seamless integration without compromising privacy. Experience responsive, intelligent living that adapts to your routines, all while maintaining data security through local processing, even during internet outages.
 
 * Aqara Presence Sensor FP2 Bracket Set, mmWave Radar Wired Motion Sensor, Zone Positioning, Multi-Person & Fall Detection, High Precision, Supports HomeKit, Alexa and Home Assistant
@@ -56,10 +73,12 @@ Experience a new dimension of home awareness with the Aqara Presence Sensor FP2,
 
 
 Cync Dynamic Effects Neon-Shape Smart Light
+**********
 
 https://www.amazon.com/dp/B0C4XBP9Z5
 
-Details 
+**Details**
+ 
 Illuminate your world with CYNC's innovative RGBIC LED Strip Lights, a versatile lighting solution that adapts to your lifestyle. These bendable strips transform any space with customizable shapes and designs, offering independent segment control for truly personalized illumination. Harness millions of vibrant colors through the intuitive CYNC App, effortlessly enhancing your home's ambiance with TrueImage technology. Sync your lights to music, creating dynamic atmospheres for every occasion, from focused work sessions to lively gatherings. With simple Wi-Fi setup and voice control compatibility, these smart lights seamlessly integrate into your daily routines. Experience a new dimension of lighting that responds to your needs, elevating every moment in your home with intelligent, responsive illumination.
 
 * Bendable RGBIC LED Strip Lights: Bend the flexible LED strip to create shapes, designs, and words; with “independent control” you can control each segment separately and include a lights off option to create space between customizable shapes
@@ -70,10 +89,12 @@ Illuminate your world with CYNC's innovative RGBIC LED Strip Lights, a versatile
 
 
 Cync Dynamic Effects Smart Hexagon Panels
+**********
 
 https://www.amazon.com/dp/B0C7LV8PT5
 
-Details 
+**Details**
+ 
 Transform your living space with Cync's Dynamic Effects Indoor LED Hexagon Lights, a versatile lighting solution that adapts seamlessly to your lifestyle. These innovative panels offer customizable illumination, allowing you to create unique atmospheres for any occasion. With millions of vibrant colors at your fingertips, easily adjust each panel's hue and brightness through the intuitive CYNC App. Experience immersive entertainment as these lights sync with your favorite music, creating dynamic light shows for parties, gaming sessions, or workouts. The simple setup process integrates smoothly with your existing Wi-Fi network, while voice control compatibility adds hands-free convenience. Whether you're designing a relaxing ambiance or an energizing workspace, these smart lights respond to your needs, enhancing your daily routines with personalized, responsive illumination that brings your home to life.
 
 * Cync GE Dynamic Effects Indoor LED Hexagon Lights with Music Sync, Wall Lights, Room Décor Aesthetic Color Changing Lights, WiFi Smart LED Lights, Works with Amazon Alexa and Google, 10 Panels
@@ -85,10 +106,12 @@ Transform your living space with Cync's Dynamic Effects Indoor LED Hexagon Light
 
 
 Eightree Smart Plug
+**********
 
 https://www.amazon.com/dp/B0B62LPR5Z
 
-Details 
+**Details**
+ 
 Transform your living space with EIGHTREE's Smart Plug, a compact powerhouse that seamlessly integrates into your daily routines. This innovative device offers effortless setup through Bluetooth connectivity, allowing you to control your electronics with just your voice or smartphone. Imagine starting your day with freshly brewed coffee and ending it with automatically dimmed lights, all customized to your schedule. The plug's energy-saving features ensure your home runs efficiently, while its compatibility with popular smart home ecosystems creates a truly connected environment. With its sleek design and reliable performance, backed by rigorous certifications, this smart plug adapts to your lifestyle, offering convenience and peace of mind in every corner of your home.
 
 * Warm Tips: To use Alexa and Google Home for voice control, please take a minute to connect the Smart Home plug with the Smart Life App first.
@@ -101,10 +124,12 @@ Transform your living space with EIGHTREE's Smart Plug, a compact powerhouse tha
 
 
 Eureka E20 Plus Robot Vacuum
+**********
 
 https://www.amazon.com/dp/B0DDXVGX8X
 
-Details 
+**Details**
+ 
 Experience a new level of home cleanliness with the Eureka E20 Plus, a sophisticated robot vacuum that seamlessly integrates into your daily life. This innovative device combines powerful 8000Pa suction with a bagless self-emptying station, offering up to 45 days of hassle-free maintenance. Its multi-cyclonic dust collection system ensures efficient cleaning, while the advanced AI-powered navigation with LiDAR sensors adapts to your home's layout, even in low-light conditions. The anti-hair-tangling brush design makes it ideal for pet owners, effortlessly managing fur and debris. With smart app control and compatibility with 2.4G networks, this robot vacuum transforms your cleaning routine, offering a more efficient and responsive approach to maintaining a tidy living space. Embrace a cleaner home with minimal effort, as the E20 Plus works tirelessly to keep your floors immaculate.
 
 * Eureka E20 Plus Robot Vacuum with Bagless Self Emptying Station, Robotic Vacuum and Mop Combo, 45-Day Capacity, Upgraded 8000Pa Suction and Anti Hair-Tangling Brush, LiDAR Navigation, App Control
@@ -117,10 +142,12 @@ Experience a new level of home cleanliness with the Eureka E20 Plus, a sophistic
 
 
 Govee AI Sync Box 2
+**********
 
 https://www.amazon.com/dp/B0DDPSCLFR
 
-Details 
+**Details**
+ 
 Elevate your viewing experience with Govee's AI Sync Box 2, a cutting-edge device that seamlessly integrates with your home entertainment setup. Leveraging the latest HDMI 2.1 technology, it synchronizes your screen content with ambient lighting, supporting resolutions up to 8K at 60Hz. The innovative CogniGlow AI recognizes on-screen elements, dynamically adjusting lighting effects to enhance immersion. With RGBWIC color mixing and high-density LED strips, it creates vibrant, accurate ambiance that complements your content. The Matter support ensures easy integration with various smart home ecosystems, offering convenient voice control. Experience a new dimension of entertainment with DreamView synchronization across multiple Govee lights, transforming your living space into a responsive, immersive environment for gaming, movies, and more.
 
 * Latest HDMI 2.1 Interface: Govee AI Sync Box 2 adopts the latest HDMI 2.1 interface for data transmission, enabling screen and lighting synchronization, and supporting resolutions of up to 8K at 60Hz and 4K at 144Hz. Note: The TV backlight requires an external HDMI input source for color extraction.
@@ -133,10 +160,12 @@ Elevate your viewing experience with Govee's AI Sync Box 2, a cutting-edge devic
 
 
 Govee COB LED Strip Light Pro
+**********
 
 https://www.amazon.com/dp/B0D7M46RND
 
-Details 
+**Details**
+ 
 Illuminate your world with Govee's next-generation COB LED Strip Lights, a versatile lighting solution that seamlessly integrates into your daily life. These innovative strips feature 1260 LEDs per meter, encased in a soft silicone sleeve, delivering smooth, spotless illumination perfect for any surface. Experience a spectrum of vibrant colors and warm white tones, effortlessly transitioning from functional lighting to customized ambiance. With Matter compatibility, control your environment through voice commands or the intuitive Govee Home App, offering 12-segment personalization per meter. The easy installation process, complete with enhanced adhesive backing and cuttable design, allows you to tailor your lighting to fit any space. Transform your home into a responsive, dynamic environment that adapts to your lifestyle and mood with these cutting-edge LED strips.
 
 * Next-Gen COB Technology: Govee LED strip lights are crafted with integrated packaging technology and 1260 LEDs/m, translating innovative tech into brighter, smoother, fluid lighting effects, can be used as supplementary lighting.
@@ -148,10 +177,12 @@ Illuminate your world with Govee's next-generation COB LED Strip Lights, a versa
 
 
 Govee Strip Light 2 Pro
+**********
 
 https://www.amazon.com/dp/B0D7MKV1CK
 
-Details 
+**Details**
+ 
 Elevate your living space with Govee's Strip Light 2 Pro, a sophisticated lighting solution that adapts seamlessly to your daily life. Featuring 21 LuminBlend effects and over 100 preset scenes, these lights effortlessly set the perfect ambiance for any occasion. The innovative 5-in-1 RGBIC technology, powered by a self-developed G1151 chip, delivers precise color blending and natural white tones. Personalize your environment with 50-segment control, unleashing your creativity across 16 million colors. The dynamic music mode transforms your space into an immersive audio-visual experience, while Matter compatibility ensures effortless voice control integration. With customizable length and connectivity options, these versatile lights mold to your lifestyle, enhancing every corner of your home with responsive, intelligent illumination.
 
 * Diverse Lighting Effects: With 21 LuminBlend lighting effects and 100+ preset scene modes on our APP, you can curate the ideal lighting to fit any occasion. Enjoy your Christmas lights using voice control with Matter, or Alexa and Google Assistant.
@@ -162,11 +193,13 @@ Elevate your living space with Govee's Strip Light 2 Pro, a sophisticated lighti
 *  Cuttable and Connectable: Customize the length you need to match your preferences. Govee Strip Light 2 Pro can be cut or connected up to 32.8ft (10m). Follow the cutting and splicing guidelines to ensure your LED lights offer high-quality room decor.
 
 
-Hisense Fire TV ⭐
+⭐ Hisense Fire TV 
+**********
 
 [insert product link] 
 
-Details 
+**Details**
+ 
 [Insert placard copy]
 
 * [insert bulleted product details]
@@ -174,10 +207,12 @@ Details
 
 
 iRobot Roomba Max 10
+**********
 
 https://www.amazon.com/dp/B0D9ZRH61T
 
-Details 
+**Details**
+ 
 [Insert placard copy]
 
 * [insert bulleted product details]
@@ -185,10 +220,12 @@ Details
 
 
 Kwikset Halo Select Smart Lock
+**********
 
 https://www.amazon.com/dp/B0DJPTB7KG
 
-Details 
+**Details**
+ 
 
 Elevate your home's security with the Kwikset Halo Select Smart Lock, a sophisticated device designed to seamlessly integrate into your daily routine. This Wi-Fi-enabled lock offers effortless control from anywhere, allowing you to manage access with a tap on your smartphone. Experience the convenience of keyless entry through intelligent geofencing or customizable codes, perfect for family members and trusted guests. Seamlessly connect with popular smart home platforms for voice control and automated routines. The lock's advanced intrusion detection provides real-time alerts, ensuring peace of mind whether you're at home or away. With its user-friendly interface and robust security features, the Halo Select transforms your front door into a responsive, intelligent gateway that adapts to your lifestyle.
 
@@ -200,10 +237,12 @@ Elevate your home's security with the Kwikset Halo Select Smart Lock, a sophisti
 
 
 Ledvance Smart+ Matter Plug EU
+**********
 
 https://www.ledvance.com/consumer/products/smart-home/smart-components/smart-matter/smart-matter/plug-with-smart-socket-to-control-non-smart-devices-with-matter-over-wifi-technology-c317769
 
-Details 
+**Details**
+ 
 Elevate your home's intelligence with the SMART+ MATTER PLUG EU, a compact powerhouse that seamlessly integrates into your daily routines. This versatile device transforms ordinary electrical equipment into responsive elements of your smart ecosystem, offering effortless control through voice commands or smartphone apps. Its sleek design ensures compatibility with various socket types without impeding neighboring outlets. Experience enhanced security with robust encryption protocols, while the simplified setup process aligns with user-friendly Matter standards. Monitor and optimize your energy consumption with built-in tracking features, allowing you to make informed decisions about your household's power usage. Embrace a new level of convenience and efficiency as this smart plug adapts to your lifestyle, bringing intuitive control to every corner of your home.
 
 *  Wireless control via app or voice control
@@ -217,10 +256,12 @@ Elevate your home's intelligence with the SMART+ MATTER PLUG EU, a compact power
 
 
 Meross Matter Smart Presence Sensor
+**********
 
 https://shop.meross.com/products/smart-presence-sensor-ms600?srsltid=AfmBOooWwhfVfPZ7cVZ1qGUem7HAb8xRW421R3iDe9G6UFgJZVSzsFT3
 
-Details 
+**Details**
+ 
 Experience a new level of home awareness with the Meross MS600 Presence Sensor, a sophisticated device that seamlessly adapts to your daily routines. Combining PIR and millimeter wave radar technology, it offers unparalleled accuracy in detecting both motion and stationary presence, minimizing false alarms and enhancing your living space's responsiveness. This versatile sensor integrates effortlessly with multiple smart home ecosystems through the Matter framework, ensuring stable, low-latency performance even offline. With its adjustable design and wide coverage range, it fits perfectly into any room, from bedrooms to bathrooms. Privacy-conscious and easy to install, this sensor transforms your home into an intelligent environment that anticipates your needs, whether it's managing lighting, climate control, or security systems. Embrace a more intuitive living experience with this ready-to-use kit. 
 
 *  More Powerful Sensors and Algorithms: The Meross Presence Sensor, using dual detection technology, combines PIR and millimeter wave radar, offering significant advantages over single-detection sensors. This advanced technology allows the sensor to accurately detect changes within a space, detecting not only motion but also user presence (even without any motion). Dual detection technology detects both motion and stationary presence with high precision, minimizing false alarms from sources like "ghosting," "vacuum cleaners," or "wind." Enhanced with a built-in light sensor, it offers greater possibilities for lighting automation. Note: The Meross Presence Sensor is wired and requires continuous power.
@@ -233,10 +274,12 @@ Experience a new level of home awareness with the Meross MS600 Presence Sensor, 
 
 
 Meross Smart Smoke Alarm
+**********
 
 https://www.meross.com/en-gc/explore/IFA-2024/33#:~:text=Smart%20Smoke%20Alarm%20(MA151)
 
-Details 
+**Details**
+ 
 Elevate your home's safety with this cutting-edge smoke detector, designed to seamlessly integrate into your daily life. Its advanced dual-light detection system expertly distinguishes between white and black smoke, offering swift and accurate alerts while minimizing false alarms. This versatile device effortlessly connects with popular smart home ecosystems, ensuring it fits perfectly into your existing setup. Meeting rigorous EN 14604 standards, it provides peace of mind with its powerful 85 dB alarm and attention-grabbing LED flash. Adaptable to various living environments, this intelligent sensor works tirelessly to protect your household around the clock. Experience a new level of home protection that responds to your lifestyle, keeping you informed and secure without intrusion, whether you're cooking a family meal or enjoying a peaceful night's sleep.
 
 * fAdvanced dual-light detection for comprehensive smoke sensing
@@ -252,10 +295,12 @@ Elevate your home's safety with this cutting-edge smoke detector, designed to se
 
 
 Meross Smart Temperature and Humidity Sensor
+**********
 
 https://shop.meross.com/products/temperature-sensor-ms130?srsltid=AfmBOor77BnE75rnV4doDjjBR_OIa9CB6uj_q-IhrkiFAZWCIff9Psh0
 
-Details 
+**Details**
+ 
 Elevate your living space with the Meross MS130, a sophisticated temperature and humidity sensor that seamlessly integrates into your daily life. This versatile device offers comprehensive environmental monitoring, displaying real-time data on its expansive 3.7-inch screen. With Swiss-made precision sensors, it provides accurate readings of temperature, humidity, and light levels, accessible from anywhere via your smartphone. Customize alerts to stay informed about your home's conditions, and leverage the device's automation capabilities to create a responsive environment. The MS130 adapts to various scenarios, from nurseries to wine cellars, ensuring optimal conditions. With long-lasting battery life and extensive data storage, it offers continuous insights into your home's climate. Experience a new level of comfort and control as this smart sensor transforms your living space into an intelligent, adaptive environment.
 
 *  Meross Matter Smart Hub MS450MA is needed for installation.
@@ -274,10 +319,12 @@ Elevate your living space with the Meross MS130, a sophisticated temperature and
 
 
 Meross Smart Thermostat
+**********
 
 https://www.meross.com/en-gc/smart-thermostat/mts300-us/192
 
-Details 
+**Details**
+ 
 Experience a new level of comfort and efficiency with the Meross MTS300 US Smart Wi-Fi Thermostat. This sleek device seamlessly integrates into your home, offering intuitive touch controls and remote access via smartphone. Compatible with 95% of heating and cooling systems, it adapts to your existing setup with ease. The smart scheduling feature ensures optimal temperature management, balancing comfort and energy savings throughout your day. Track your usage through the app to make informed decisions about your energy consumption, potentially reducing bills by up to 30% annually. For personalized comfort, pair with Meross Smart Sensors to fine-tune temperatures in specific rooms. With its minimalist design and DIY-friendly installation, this thermostat transforms your climate control experience, offering a perfect blend of convenience and energy efficiency for modern living.
 
 *  •Wide Compatibility: Compatible with 95% heating and cooling systems. Such as single or multi-stage furnaces, boilers, air conditioners, heat pumps(with or without AUX heating), and fan coil units. Not compatible with electric baseboard heaters. Please scan the QR code to check the compatibility before purchasing.
@@ -290,10 +337,12 @@ Experience a new level of comfort and efficiency with the Meross MTS300 US Smart
 
 
 Meross Smart Wi-Fi Hub
+**********
 
 https://www.meross.com/en-gc/smart-hub/smart-hub-pro/186
 
-Details 
+**Details**
+ 
 Elevate your living space with the Meross MSH450 Smart Wi-Fi Hub, a powerful centerpiece for your connected home. This sleek device effortlessly manages up to 32 sub-devices, ensuring smooth operation and real-time updates across your smart ecosystem. Its robust local alarm system maintains security even during network outages, providing peace of mind around the clock. With versatile networking options, including Ethernet and Wi-Fi connectivity, it adapts to your home's layout for optimal performance. The MSH450's elegant, eco-friendly design seamlessly blends into any decor while resisting wear and tear. Experience seamless integration with popular smart home platforms through the Matter protocol, creating a unified, responsive environment. Transform your daily routines with this intelligent hub, bringing effortless control and enhanced functionality to every corner of your home.
 
 * Superior Performance: With its efficient processor and advanced cooling system, supports up to 32 sub-devices, ensuring smooth, long-term connections. Effortlessly manage your smart home with remote control, real-time updates, and intelligent features.
@@ -304,10 +353,12 @@ Elevate your living space with the Meross MSH450 Smart Wi-Fi Hub, a powerful cen
 
 
 Meross Smart Wi-Fi Plug Mini
+**********
 
 https://shop.meross.com/products/matter-smart-plug-mss315-us?srsltid=AfmBOoo9i0A1j5X5B9p3jV-wa6I0be997OkXCy13D2un3PyVg8Je_sg1
 
-Details 
+**Details**
+ 
 
 Experience a new level of home efficiency with the Meross MSS315 Smart Plug, a compact powerhouse that seamlessly integrates into your daily routines. This innovative device not only offers convenient control over your electronics but also provides detailed energy consumption insights, empowering you to make informed decisions about your power usage. With its user-friendly setup process and robust interoperability, it effortlessly connects with major smart home ecosystems, adapting to your preferred platform. The MSS315's strong security features ensure peace of mind, while its multi-admin capability allows for flexible management across various systems. Compatible with both iOS and Android devices, this smart plug transforms ordinary outlets into responsive, energy-aware components of your connected home, enhancing your lifestyle with intuitive control and valuable energy insights.
 
@@ -321,10 +372,12 @@ Experience a new level of home efficiency with the Meross MSS315 Smart Plug, a c
 
 
 Midea ST1 Thermostat
+**********
 
 [insert product link] 
 
-Details 
+**Details**
+ 
 Experience a new level of home comfort with this innovative smart thermostat, featuring a vibrant 4" touchscreen that puts intuitive control at your fingertips. Seamlessly manage your environment from anywhere using the mobile app, ensuring your space is always perfectly climate-controlled. This versatile device integrates effortlessly with major smart home ecosystems, adapting to your preferred platform. Its advanced iCheck technology offers self-detection and remote repair capabilities, while over-the-air updates ensure continuous improvement. Compatible with a wide range of HVAC systems, including Midea air handling units and light commercial products, as well as North American third-party systems, it offers unparalleled flexibility. Embrace a more efficient lifestyle, potentially reducing energy consumption by up to 40%, as this smart thermostat transforms your daily comfort experience.
 
 * Vibrant 4" touchscreen offers intuitive control and user-friendly interface
@@ -338,10 +391,12 @@ Experience a new level of home comfort with this innovative smart thermostat, fe
 
 
 Morphy Richards Electric Kettle
+**********
 
 [insert product link] 
 
-Details 
+**Details**
+ 
 ALEXA VOICE INTEGRATION WITH SMART SPEAKER OR ALEXA APP: This smart kettle easily connects to your Alexa smart speaker or the Alexa app to let you command and control the kettle with your voice. It "Works with Alexa," meaning it meets Amazon's high bar for responsiveness, reliability and functionality.
 HARNESS THE SMARTNESS: No more waiting for the kettle to boil. Unpredictable schedule. Ask Alexa to turn it on whenever you’re ready. Busy morning. Set up a routine with the Alexa app to schedule your kettle to boil right when you wake up. Tea connoisseur. Set the perfect temperature for your preferred tea leaf type. Still didn’t time the kettle right.
 
@@ -350,10 +405,12 @@ HARNESS THE SMARTNESS: No more waiting for the kettle to boil. Unpredictable sch
 
 
 Philips Hue Play HDMI Sync Box 8K
+**********
 
 https://www.philips-hue.com/en-us/p/hue-philips-hue-play-hdmi-sync-box-8k/046677579753
 
-Details 
+**Details**
+ 
 Experience a new dimension of entertainment with the Philips Hue Play HDMI sync box 8K, a device that transforms your living space into a dynamic, responsive environment. This innovative technology seamlessly matches your Philips Hue lights to on-screen content, creating an immersive atmosphere that adapts to your media. With its ultra-fast refresh rate, it synchronizes colors in real-time, supporting high-quality video content at an impressive 8K 60Hz and 4K 120Hz. Whether you're gaming, enjoying movie nights, or listening to music, this device enhances every moment, extending the visual experience beyond the screen. Effortlessly integrating with existing Philips Hue ecosystems, it offers a captivating ambiance that elevates your daily entertainment rituals, making every viewing a truly immersive event.
 
 * Elevate entertainment with immersive light syncing technology
@@ -367,10 +424,12 @@ Experience a new dimension of entertainment with the Philips Hue Play HDMI sync 
 
 
 Philips Hue Play Light Bar
+**********
 
 https://www.amazon.com/Philips-White-Color-Ambiance-Double/dp/B07GXB3S7Z
 
-Details 
+**Details**
+ 
 Elevate your home entertainment with the Philips Hue Smart Play Light Bar Base Kit, a versatile lighting solution that transforms your viewing space. This innovative set features two color-changing LED bars, capable of producing millions of hues and warm-to-cool white tones. Easily mount them behind your TV to create an immersive backlight that enhances every scene. With voice control compatibility and seamless integration into popular smart home ecosystems, these lights adapt effortlessly to your preferences. The Hue Bridge unlocks advanced features, allowing for remote control and automated routines. Whether you're gaming, watching movies, or simply setting the mood, these smart light bars offer a dynamic ambiance that responds to your lifestyle, bringing a new dimension to your daily entertainment experiences.
 
 *  WHAT’S IN THE BOX - Includes two White and Color Ambiance smart LED play light bar base kit with plug; Perfect for immersive gaming and TV watching experiences
@@ -382,10 +441,12 @@ Elevate your home entertainment with the Philips Hue Smart Play Light Bar Base K
 
 
 Sandstrom Wireless Smart Plug
+**********
 
 https://business.currys.co.uk/catalogue/cameras-smart-tech/smart-tech/smart-home/sandstrom-sspmw24-wireless-smart-plug-with-matter/N393941W
 
-Details 
+**Details**
+ 
 Transform your everyday appliances with the Sandstrom SSPMW24 Smart Plug, a compact device that brings intelligence to any socket. This versatile plug seamlessly integrates with Matter-compatible apps, allowing effortless control through popular platforms like Google Home and Amazon Alexa. Create personalized schedules and timers to automate your home environment, from activating lamps to managing fans. The built-in energy monitoring feature provides real-time insights into your power consumption, empowering you to make informed decisions about your energy usage. With voice assistant compatibility, you can manage your connected devices hands-free, streamlining your daily routines. Experience a new level of convenience and efficiency as this smart plug adapts to your lifestyle, offering intuitive control over your home's electronics.
 
 * Make any plug socket smart with this Sandstrom smart plug – it's super simple to setup
@@ -396,10 +457,12 @@ Transform your everyday appliances with the Sandstrom SSPMW24 Smart Plug, a comp
 
 
 Schlage Encode Smart Wi-Fi Deadbolt
+**********
 
 https://www.amazon.com/dp/B07HXFKMYR
 
-Details 
+**Details**
+ 
 Elevate your home's security with the Schlage Encode Smart Wi-Fi Deadbolt, a sophisticated device that seamlessly integrates into your daily routine. This innovative lock offers remote access control, allowing you to manage entry from anywhere through its built-in Wi-Fi. Create and customize up to 100 access codes for family and friends, providing flexible, secure entry options. The fingerprint-resistant touchscreen ensures easy operation, while voice control compatibility adds hands-free convenience. With built-in alarm technology and low battery indicators, it keeps you informed about your home's security status. Installation is a breeze, requiring just a screwdriver and featuring snap 'n stay technology for effortless setup. Experience a new level of convenience and peace of mind as this smart lock adapts to your lifestyle, offering intuitive control over your home's main entry point.
 
 *  Smart Lock with Built-in Wi-Fi allows you to lock/unlock from anywhere - no additional accessories required. Pair with the Schlage home app or Key by Amazon app to create and manage up to 100 access codes for trusted friends and family for recurring, temporary or permanent access.Note: Measure your door's backset, cross bore and thickness to ensure you find the right fit.Note: Measure your door's backset, cross bore and thickness to ensure you find the right fit..Operating Temperatures: Outside escutcheon: -35C to 66C,Inside escutcheon: -10C to 49C.
@@ -410,10 +473,12 @@ Elevate your home's security with the Schlage Encode Smart Wi-Fi Deadbolt, a sop
 
 
 Smartspec Smart Plug
+**********
 
 https://csa-iot.org/csa_product/smartspec-smart-plug/
 
-Details 
+**Details**
+ 
 Experience a new level of home convenience with the SMARTSPEC Smart ACK Matter UK Plug, a versatile device that seamlessly integrates into your daily life. This innovative plug transforms ordinary appliances into responsive, intelligent components of your smart ecosystem. Compatible with existing UK sockets, it offers effortless installation and intuitive remote control of lights and devices. By unifying your home management through Matter-enabled systems, it streamlines your routines and enhances efficiency. Adapt your environment to your lifestyle with convenient control options, whether you're adjusting lighting for movie night or managing energy use while away. Elevate your living space with this smart plug, bringing intelligent power management to every corner of your home and simplifying your day-to-day activities.
 
 * Seamlessly integrates with Matter-enabled smart home systems
@@ -427,10 +492,13 @@ Experience a new level of home convenience with the SMARTSPEC Smart ACK Matter U
 
 
 Sonoff NSPanel Pro Smart Home Control Panel
+**********
 
 https://www.amazon.com/dp/B0D848YHDT
 
-Details 
+**Details**
+ 
+
 [Experience a new dimension of home control with the SONOFF NSPanel Pro 120, a versatile command center that seamlessly integrates into your daily life. This innovative device features a vibrant 4.7-inch display, offering intuitive management of your entire smart ecosystem at your fingertips. From monitoring energy consumption to adjusting thermostats and viewing live camera feeds, it centralizes your home's key functions. The customizable security modes provide peace of mind, while the energy tracking feature helps you make informed decisions about power usage. With its web browsing capability, this panel becomes a multifunctional hub for entertainment and information. Transform your living space into a responsive, efficient environment that adapts to your lifestyle, all controlled from this sleek, wall-mounted interface.
 
 *  【All in One Control Panel With】 Enjoy a larger view with the 4.7-inch display that Control your home with just a tap—whether it’s monitoring energy use, viewing live cameras, adjusting the thermostat, managing your lighting or even browsing the web
@@ -441,10 +509,12 @@ Details
 
 
 Sonoff TX Ultimate Smart Touch Wall Switch
+**********
 
 https://www.amazon.com.br/dp/B0C8HS6KJ7
 
-Details 
+**Details** 
+
 Elevate your living space with the SONOFF Touch WiFi Light Switch, a seamless blend of form and function designed for the modern home. This sleek, wall-mounted device transforms everyday lighting into an intuitive experience with its responsive touch control and customizable LED backlighting. Effortlessly integrate it into your daily routines through smartphone app controls, voice commands via Alexa, or personalized schedules. The removable front panel allows for easy customization to match your decor, while the robust brass construction ensures longevity. With simple DIY installation and 2.4GHz WiFi connectivity, this smart switch adapts to your lifestyle, offering convenient control whether you're at home or away, making it an essential component of any connected home.
 
 *  Compatible with Alexa for voice control
@@ -469,6 +539,7 @@ Sonoff Wi-Fi Smart Plug
 https://www.amazon.com/dp/B09LGZNQD8
 
 **Details** 
+
 Elevate your home's efficiency with the SONOFF S40 Smart Plug, a compact device that brings intelligence to everyday appliances. This innovative outlet offers real-time energy monitoring, providing insights into your power consumption and helping you make informed decisions about electricity usage. Seamlessly integrate it with popular voice assistants for hands-free control, or manage your connected devices remotely through the intuitive eWeLink app. Create personalized schedules to automate your home environment, from activating lights to managing appliances. The sharing feature allows for collaborative home management, perfect for families or shared living spaces. Experience a new level of convenience and energy awareness as this smart plug adapts to your lifestyle, offering intuitive control over your home's electronics from anywhere, at any time.
 
 *  [Monitor Energy Consumption]:Keep track of real-time power, current and voltage of your appliances on App.and Measure your appliances’ power consumption for 100-day daily/monthly energy usage data and total electricity cost.
