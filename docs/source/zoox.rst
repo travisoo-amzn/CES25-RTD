@@ -25,5 +25,8 @@ Experience a new era of urban mobility with Zoox, a revolutionary autonomous veh
 *  Integrated design focusing on redundancy and reliability
 *  Adaptive lighting system to indicate vehicle intentions to pedestrians and drivers
 
+🌐 `Robotaxi in Las Vegas <https://zoox.com/journal/las-vegas/>`_
 
+
+🌐 `Robotaxi in San Francisco <https://zoox.com/journal/zoox-robotaxi-in-san-francisco>`_
 
