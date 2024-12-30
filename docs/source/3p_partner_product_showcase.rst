@@ -9,14 +9,18 @@
 ⭐Hisense Fire TV 
 **********
 
-[insert product link] 
 
 **Details**
 
-[Insert placard copy]
+Introducing the Hisense U6 Series Mini-LED ULED 4K Smart Fire TV—a revolution in home entertainment. Experience breathtaking visuals with Mini-LED technology and ULED Quantum Dot color, delivering over a billion vibrant shades. With HDR10+ Adaptive technology  and Full Array Local Dimming, enjoy exceptional contrast and clarity. Integrated Fire TV provides seamless access to your favorite streaming services, while built-in Alexa allows effortless voice control. Elevate your viewing experience with cinema-quality Dolby Vision IQ and Dolby Atmos.
 
-* [insert bulleted product details]
-* [insert bulleted product details]
+* Panel Technology: 4K Mini-LED/ULED/Quantum Dot/Wide Color Gamut
+* Panel Refresh Rate: Up to 120Hz
+* Multi-HDR Support: HDR10+ Adaptive/Dolby Vision IQ
+* Dimming/Contrast: QLED with local dimming
+* Gaming: ALLM, VRR with LD, Freesync Premium Pro,
+* Additional Picture Specs: Color Space: Wide Color Spectrum; Dolby Vision IQ: Yes; HDR10+ Adaptive: Yes; Filmmaker Mode
+* Dolby Atmos: Yes
 
 ------------
 
@@ -62,14 +66,12 @@ https://www.amazon.com/dp/B0D496H9YV
 
 **Details**
  
-Experience a new dimension of home awareness with the Aqara Presence Sensor FP2, a sophisticated device that seamlessly integrates into your living spaces. This innovative sensor utilizes advanced mmWave radar technology to detect up to five individuals simultaneously, offering unparalleled precision in monitoring rooms up to 40 m². Customize your environment by dividing it into 30 distinct zones, each with its own automation possibilities. From sleep monitoring to fall detection, the FP2 adapts to various needs, enhancing both comfort and safety. Its versatile installation options, including corner mounting, eliminate dead zones and maximize coverage. Compatible with major smart home ecosystems, it offers seamless integration without compromising privacy. Experience responsive, intelligent living that adapts to your routines, all while maintaining data security through local processing, even during internet outages.
+Introducing the Aqara Smart Lock U300—a versatile smart lever lock designed for both interior and exterior doors. Unlock effortlessly using the built-in fingerprint reader, customizable keypad, physical keys, or via smart home integrations. With Matter-over-Thread support, it seamlessly integrates with Amazon Alexa. Enjoy up to 10 months of battery life and weather-resistant durability.
 
-* Aqara Presence Sensor FP2 Bracket Set, mmWave Radar Wired Motion Sensor, Zone Positioning, Multi-Person & Fall Detection, High Precision, Supports HomeKit, Alexa and Home Assistant
-*  [Installation Method] With the new installation method for the FP2, you can now mount it in the corner of a room. Just attach the included angle mount and switch to the corresponding mode in the app. This setting eliminates dead zones caused by the sensor’s angle and rotates the room layout by 45 degrees, allowing for enhanced zone detection and more automation options.
-*  [Multi-Person &Zone Positioning] The Aqara Presence Sensor FP2 can simultaneously detect up to 5 people and trigger different scenarios and automation.Moreover, the FP2(2.4GHz Wi-Fi REQUIRED) offers significant advantages over PIR infrared motion sensors by using a single radar sensor to monitor rooms of up to 40 m² (430 sq ft). You can also divide it into up to 30 zones, such as sofa, bed or desktop, etc. and set up individual automations for each zone. It is like having several PIR sensors at the same time with one Presence Sensor FP2. Please note: the FP2 is a wired sensor that should be constantly powered.
-*  [Sleep monitoring& Fall Detection] You can install FP2 next to the bed and select the sleep monitoring mode to sense the human body's sleep status in real time and generate a sleep health report.Moreover, you also can mount the FP2 on the ceiling and choose the Falling Detection Mode, which will detect and alert you through the app if someone falls. (Note: The FP2 is not a medical device, and can only be used for notification purposes)
-*  [Multi-Ecosystem Support] The Aqara Presence Sensor FP2 is exposed as multiple sensors to HomeKit, Alexa, Samsung SmartThings and Home Assistant. (Note: The device can be added directly to Home Assistant using HomeKit Controller integration) You can integrate the sensor easily without requiring an Aqara hub, which is a great solution for smart home enthusiasts.
-*  [Ultra-High Precision, Privacy, and Enhanced Features]By implementing millimeter-wave radar technology, the Presence Sensor FP2 provides precise detection of movement without false negatives, even for slight movements. No camera monitoring system maximizes privacy. With IPX5, it can be installed in wet environments. Additionally, it has a built-in light sensor for flexible lighting automations (Only available in Aqara Home, HomeKit, and IFTTT). Automations of FP2 are executed without sending to the cloud and will keep working even if there is no internet connection.
+* 【Smart Automations with Aqara and Third-Party Devices】When paired with an Aqara Thread-enabled Matter Hub (like the M3), the U300 supports smart home automations and remote unlocking. Thanks to the Matter over Thread protocol, it’s also compatible with third-party ecosystems such as Google Home, Alexa, IFTTT, and Samsung SmartThings. This flexibility allows seamless integration into a variety of smart home setups for enhanced automations and convenience.(Tips: After adding the door lock to the Aqara Home app, only the administrator's fingerprint or password can reset the door lock.)
+* Multiple Unlocking Options Including Fingerprint】The U300 features multiple unlocking methods, including a highly accurate fingerprint reader on the handle, which supports up to 50 unique fingerprints. It also offers one-time local passwords for use and periodic passwords for guests when offline. It's worth reminding you that you can also unlock your door using your Aqara NFC card, which is a very convenient thing to do!(*Note: NFC card is sold separately.)
+* Passage, Auto-Lock & Do Not Disturb Modes】The U300 offers two primary modes: Passage Mode, ideal for quick, hassle-free entry in high-traffic areas like commercial spaces or garages, and Auto-Lock Mode for enhanced security. Additionally, Do Not Disturb Mode mutes the lock's sounds during specific time frames, ensuring a quieter experience when coming home late without disturbing others.
+* Durable, Secure & Long Battery Life】Built from robust zinc alloy and rated IPX4 for water resistance, the U300 is designed to withstand temperatures from -22°F to 131°F. Powered by 4 AA batteries, it boasts an impressive battery life of up to 10 months. In case of emergency, two USB-C ports are available for backup power. All sensitive data, including fingerprints, is stored locally with full AES encryption for maximum security.
 
 
 Cync Dynamic Effects Neon-Shape Smart Light
@@ -196,14 +198,17 @@ Elevate your living space with Govee's Strip Light 2 Pro, a sophisticated lighti
 ⭐ Hisense Fire TV 
 **********
 
-[insert product link] 
-
 **Details**
  
-[Insert placard copy]
+Introducing the Hisense U6 Series Mini-LED ULED 4K Smart Fire TV—a revolution in home entertainment. Experience breathtaking visuals with Mini-LED technology and ULED Quantum Dot color, delivering over a billion vibrant shades. With HDR10+ Adaptive technology  and Full Array Local Dimming, enjoy exceptional contrast and clarity. Integrated Fire TV provides seamless access to your favorite streaming services, while built-in Alexa allows effortless voice control. Elevate your viewing experience with cinema-quality Dolby Vision IQ and Dolby Atmos.
 
-* [insert bulleted product details]
-* [insert bulleted product details]
+* Panel Technology: 4K Mini-LED/ULED/Quantum Dot/Wide Color Gamut
+* Panel Refresh Rate: Up to 120Hz
+* Multi-HDR Support: HDR10+ Adaptive/Dolby Vision IQ
+* Dimming/Contrast: QLED with local dimming
+* Gaming: ALLM, VRR with LD, Freesync Premium Pro,
+* Additional Picture Specs: Color Space: Wide Color Spectrum; Dolby Vision IQ: Yes; HDR10+ Adaptive: Yes; Filmmaker Mode
+* Dolby Atmos: Yes
 
 
 iRobot Roomba Max 10
@@ -213,10 +218,15 @@ https://www.amazon.com/dp/B0D9ZRH61T
 
 **Details**
  
-[Insert placard copy]
+Meet the iRobot Roomba Combo 10 Max—your ultimate home cleaning partner. With 100% more suction power and intelligent room-specific cleaning, it tackles messes effortlessly. Its Auto-Retract Mopping System ensures spotless floors while protecting carpets, and the revolutionary AutoWash Dock empties debris, refills the mop tank, and keeps your device fresh and ready. Connect to Alexa for hands-free control or set routines for daily cleanings. The Roomba Combo 10 Max is where cutting-edge technology meets a spotless home.
 
-* [insert bulleted product details]
-* [insert bulleted product details]
+* OUR MOST POWERFUL CLEANING ROBOT YET. It vacuums with 100% more suction power*, mops back-and-forth with downward pressure—and learns which rooms get dirty fastest. Intelligently engineered to even empty its own bin and wash and dry its own mop pad. 
+* AN EXPERT IN DIRT ELIMINATION. The 4-Stage Cleaning System features an Edge-Sweeping Brush for thorough corner cleaning, Dual Rubber Brushes that avoid pet hair tangles, strong suction that easily pulls embedded dirt from carpets, and SmartScrub that mops back and forth with precision.
+* IT DOESN’T JUST LEARN YOUR HOME; IT REACTS TO IT IN REAL TIME. With PrecisionVision Navigation and a camera, your robot identifies and avoids obstacles of all sizes like pet waste, charging cords, socks and shoes to get the whole job done.
+* SMART SCRUB MOPS BACK AND FORTH WITH CONSISTENT PRESSURE AND 2X DEEPER SCRUBBING*. Some areas of the home need a deeper clean–pawprints in the mudroom, spills under the kitchen table, tiles in your bathroom. Simply enable SmartScrub and your Roomba Combo 10 Max will scrub back-and-forth, just like you would. *Compared to standard vacuum and mop mode for coffee and grime.
+* CLEANS YOUR HOME – AND ITSELF. The AutoWash Dock empties debris into an enclosed bag, refills the mopping tank, and washes and dries the mop pad all while its Self-Cleaning Cycle keeps the dock clean with the least amount of effort from you.
+* A CLEAN PAD. EVERY TIME. Automatically washes and dries the mop pad after each use. Plus, set it to wash its mop pad after cleaning specific rooms like the bathroom, so messes don't get spread around your home.
+* PREDICTS DIRT. ELIMINATES IT. Some rooms you live in, others you don’t—and Dirt Detective knows exactly which rooms get dirty fastest. It prioritizes where to clean and automatically selects the right settings to give them the deep cleaning they need.
 
 
 Kwikset Halo Select Smart Lock
@@ -374,8 +384,6 @@ Experience a new level of home efficiency with the Meross MSS315 Smart Plug, a c
 Midea ST1 Thermostat
 **********
 
-[insert product link] 
-
 **Details**
  
 Experience a new level of home comfort with this innovative smart thermostat, featuring a vibrant 4" touchscreen that puts intuitive control at your fingertips. Seamlessly manage your environment from anywhere using the mobile app, ensuring your space is always perfectly climate-controlled. This versatile device integrates effortlessly with major smart home ecosystems, adapting to your preferred platform. Its advanced iCheck technology offers self-detection and remote repair capabilities, while over-the-air updates ensure continuous improvement. Compatible with a wide range of HVAC systems, including Midea air handling units and light commercial products, as well as North American third-party systems, it offers unparalleled flexibility. Embrace a more efficient lifestyle, potentially reducing energy consumption by up to 40%, as this smart thermostat transforms your daily comfort experience.
@@ -393,15 +401,10 @@ Experience a new level of home comfort with this innovative smart thermostat, fe
 Morphy Richards Electric Kettle
 **********
 
-[insert product link] 
-
 **Details**
  
-ALEXA VOICE INTEGRATION WITH SMART SPEAKER OR ALEXA APP: This smart kettle easily connects to your Alexa smart speaker or the Alexa app to let you command and control the kettle with your voice. It "Works with Alexa," meaning it meets Amazon's high bar for responsiveness, reliability and functionality.
-HARNESS THE SMARTNESS: No more waiting for the kettle to boil. Unpredictable schedule. Ask Alexa to turn it on whenever you’re ready. Busy morning. Set up a routine with the Alexa app to schedule your kettle to boil right when you wake up. Tea connoisseur. Set the perfect temperature for your preferred tea leaf type. Still didn’t time the kettle right.
+This smart kettle from Morphy Richards easily connects to your Alexa smart speaker or the Alexa app to let you command and control the kettle with your voice. It "Works with Alexa," meaning it meets Amazon's high bar for responsiveness, reliability and functionality. No more waiting for the kettle to boil, ask Alexa to turn it on whenever you’re ready. Busy morning? Set up a routine with the Alexa app to schedule your kettle to boil right when you wake up. Tea connoisseur? Set the perfect temperature for your preferred tea leaf type.
 
-* [insert bulleted product details]
-* [insert bulleted product details]
 
 
 Philips Hue Play HDMI Sync Box 8K
