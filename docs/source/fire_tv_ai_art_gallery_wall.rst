@@ -11,10 +11,16 @@ Fire TV AI Art Gallery Wall
 
 **Details**
 
-[Insert placard copy]
+Amazon has introduced an AI Art feature for Fire TV, enabling users to create personalized artwork using voice commands via Alexa. 
 
-* [insert bulleted product details]
-* [insert bulleted product details]
+Key Features:
+
+* Voice-Activated Art Creation: Users can generate unique images by describing their desired scene to Alexa, such as "Alexa, create a background of a medieval castle on Mars."
+* Customization Options: The AI Art feature offers various art styles, including pixel art, oil painting, watercolor, colored pencil, and Cubist, allowing users to tailor the aesthetic of their creations.
+* Integration with Ambient Experience: Generated images can be set as backgrounds on Fire TV and saved to Amazon Photos, enhancing the personalized ambiance of the TV when not in use.
+* Device Compatibility: The feature is available in public preview for U.S. customers using Fire TV Stick 4K Max (2nd Gen) or Fire TV Omni QLED Series devices.
+* User Engagement: Since its launch, customers have generated over one million images, with 84% of prompts being unique, indicating high engagement and creativity among users.
+* This innovation combines the capabilities of Alexa with Amazon's Titan Image Generator model, offering an interactive and creative experience for Fire TV users. 
 
 
 Fire TV Ambient Experience
