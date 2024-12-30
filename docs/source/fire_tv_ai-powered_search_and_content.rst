@@ -7,25 +7,29 @@ Fire TV AI-powered Search and Content
 ⭐Fire TV AI-powered Search 
 **********
 
-https://www.aboutamazon.com/news/devices/how-amazon-developers-built-fire-tv-ai-search
-https://www.aboutamazon.com/news/devices/how-to-use-ai-search-on-fire-tv
+🌐 `More Info <https://www.aboutamazon.com/news/devices/how-amazon-developers-built-fire-tv-ai-search>`_ 
+
+🌐 `How to Use AI Search <https://www.aboutamazon.com/news/devices/how-to-use-ai-search-on-fire-tv>`_ 
+
 
 **Details** 
 
 Amazon has enhanced Fire TV with an AI-powered search feature, enabling users to discover content using natural language.
 
-Development of AI-Powered Search:
+**Development of AI-Powered Search:**
+
 * Semantic Search Implementation: Transitioned from keyword-based to semantic search, allowing understanding of complex queries like "movies about dog and human friendships." 
 * Integration with Alexa's Knowledge Base: Leveraged Alexa's extensive data to interpret diverse entertainment-related searches, enhancing user interaction. 
 * Machine Learning for Result Ranking: Employed machine learning models to improve the relevance and personalization of search results based on user preferences. 
 
+**Using the AI-Enhanced Search:**
 
-Using the AI-Enhanced Search:
 * Voice-Activated Search: Press the Alexa or microphone button on the Fire TV remote and issue commands like "Show me movies based on video games." 
 * Hands-Free Operation: On devices with far-field microphones, such as Fire TV Omni QLED Series or Fire TV Cube, users can search without the remote by speaking commands aloud. 
 * Personalized Results: Search outcomes are tailored to individual profiles, considering subscribed streaming services and viewing habits. 
 * Content Exploration: Users can view detailed information about titles, including synopsis, ratings, and availability, directly from the search results. 
 * This AI-driven enhancement simplifies content discovery on Fire TV, making it more intuitive and aligned with user preferences.
+
 
 
 Fire TV Sound Bar Plus with Subwoofer
@@ -46,7 +50,8 @@ Elevate your home entertainment experience with the Fire TV Soundbar Plus and su
 *  Fire TV ready – Use one remote to control your TV and soundbar. And customize your sound in the Fire TV audio settings (select models apply).
 
 
- Panasonic Z85 Series with Fire TV
+
+Panasonic Z85 Series with Fire TV
 **********
 
 https://www.amazon.com/dp/B0D97GB5HM
