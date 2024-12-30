@@ -6,7 +6,7 @@
 
 **Highlighted Products and Features**
 
-⭐Hisense Fire TV 
+⭐Hisense Mini-LED U6 Series with Fire TV
 **********
 
 
@@ -195,7 +195,7 @@ Elevate your living space with Govee's Strip Light 2 Pro, a sophisticated lighti
 *  Cuttable and Connectable: Customize the length you need to match your preferences. Govee Strip Light 2 Pro can be cut or connected up to 32.8ft (10m). Follow the cutting and splicing guidelines to ensure your LED lights offer high-quality room decor.
 
 
-⭐ Hisense Fire TV 
+⭐ Hisense Mini-LED U6 Series with Fire TV
 **********
 
 **Details**
