@@ -379,17 +379,36 @@ Discover the Fire Max 11, a versatile companion designed to enhance every aspect
 *  SMART-HOME READY — Ask Alexa for help with anything from recipes to jokes, or use Alexa App to control your connected devices at a touch.
 
 
-Ring and Kidde Smoke Alarm
+Ring and Kidde Smart Smoke + CO Alarm
 **********
 
-[insert product link] 
-
-**Details**
  
-[Insert placard copy]
+Ring and Kidde, North America's #1 Fire Saftey Brand, are combining their leadership in smart home protection and fire safety to deliver customers added peace of mind, control, and convenience. The Kidde Smart Smoke + Carbon Monoxide Alarm alerts customers in real-time via the Ring app when it detects unsafe levels of smoke or carbon monoxide. It does not require a hub, or other Ring devices, and are wifi connected. Addtionally, the Ring app will notify customers when their devices' batteries are low, approximately 7 days before the devices starts chirping. This partnership with Kidde represents a big step in Ring's journey to creating a full connected environment where customers feel safe, informed, and in control at all times.
 
-* [insert bulleted product details]
-* [insert bulleted product details]
+* At CES, we are announcing a collaboration between Ring and Kidde that has resulted in the development of a new line of smoke and smoke/CO alarms.
+* The power of two leading brands: Combining the expertise of North America's #1 Fire Safety Brand with the trusted home protection technology used by over 20 million people worldwide.
+* 2 devices will be available at launch: Smart Smoke + Carbon Monoxide Alarm ($74.97) & Smart Smoke Alarm ($54.97)
+* A new standalone professional monitoring subscription for smoke/CO detection priced at $5/month ($50/year) will also be available. Requiring no additional subscriptions. Providing greater flexibility and customization options within our Professional Protection Services.
+* Launch Date: Initial launch: April 2025 (Home Depot exclusive), while the subscription will be available on Ring.com
+
+**Product  Key Features and Benefits**
+
+Next level detection in the palm of your hand: cutting edge sensing + seamless Ring integration + 24/7 professional monitoring:
+* Advanced sensing technology: React quickly with smoke detection that's over 25% faster and up to 3x more precise 
+* Real-time notifications: Home or away, get notifications of smoke or CO and low battery warnings. 
+* Optional 24/7 professional monitoring: Trained agents can request emergency help in case of alarm
+* No other Ring devices required: Everything you need is in a the box - just download the Ring app. 
+* Whole home connectivity with existing Kidde alarms: 1 Kidde smart alarm will connect all of your wired Kidde smoke + CO alarms  
+* Reduced Nuisance Alarms: Enhanced sensing technology reduces false alarms often caused by cooking 
+
+**Subscription  Background**
+
+24/7 Smoke & CO Monitoring with Emergency Response for only $5/month ($50/year)
+* Affordable and flexible professional-level protection for your home
+* No other Ring subscription required
+* 30-day free trial for new customers
+* May qualify for homeowner's insurance discounts
+* Works with the Kidde Smart Smoke + CO alarms, Ring Alarm Smoke/CO Listener and First Alert Z-Wave Plus Smoke/CO Alarm
 
 
 Ring Alarm Pro
