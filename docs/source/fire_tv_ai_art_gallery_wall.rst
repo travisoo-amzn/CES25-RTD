@@ -13,6 +13,22 @@ Fire TV AI Art Gallery Wall
 
 Amazon has introduced an AI Art feature for Fire TV, enabling users to create personalized artwork using voice commands via Alexa. 
 
+**Generate an AI Image**
+
+Step 1: First, have the attendee think of a prompt. It will always start with **"Create an image of___"** 
+
+* Prompts can be simple like "Create an image of a field of wild flowers" or "Create an image of a puppy wearing a suit and tie"
+
+* More complex ideas can include art styles like "Create an abstract image using various shades white" or "Create a baroque style portrait of a rhinoceros"
+
+Step 2: When the attendee is ready, Press and hold the blue button, direct the top of the remote to the attendee, they deliver their prompt, then release the blue button.
+
+Step 3: Wait for the TV to generate some images. Use the remote to view the images. If the attendee wants to, they can add modifiers to the prompt 
+
+Step 4: Once the attendee has selected an image they like, click on it, add to collection and confirm update to the collection.
+
+Step 5: The imagge will appear on the screen and then appear on the other TVs as they cycle through the images.
+
 Key Features:
 
 * Voice-Activated Art Creation: Users can generate unique images by describing their desired scene to Alexa, such as "Alexa, create a background of a medieval castle on Mars."
@@ -21,6 +37,7 @@ Key Features:
 * Device Compatibility: The feature is available in public preview for U.S. customers using Fire TV Stick 4K Max (2nd Gen) or Fire TV Omni QLED Series devices.
 * User Engagement: Since its launch, customers have generated over one million images, with 84% of prompts being unique, indicating high engagement and creativity among users.
 * This innovation combines the capabilities of Alexa with Amazon's Titan Image Generator model, offering an interactive and creative experience for Fire TV users. 
+
 
 
 Fire TV Ambient Experience
