@@ -1,4 +1,4 @@
-Fire TV AI-powered Search and Content
+Fire TV AI-powered Search and Fire Tablets
 ###########
 
 .. image:: images/fire_tv_ai-powered_search_and_content.png
@@ -30,7 +30,40 @@ Amazon has enhanced Fire TV with an AI-powered search feature, enabling users to
 * Content Exploration: Users can view detailed information about titles, including synopsis, ratings, and availability, directly from the search results. 
 * This AI-driven enhancement simplifies content discovery on Fire TV, making it more intuitive and aligned with user preferences.
 
+Fire HD 8 Tablet
+**********
 
+https://www.amazon.com/dp/B0CVDN4QS6
+
+**Details**
+
+Elevate your daily digital experience with the Fire HD 8, a versatile tablet designed for modern life. Its crisp 8" HD display and enhanced 3GB RAM ensure smooth streaming and gaming, while the 5MP camera captures life's moments with clarity. Enjoy up to 13 hours of uninterrupted use, perfect for long commutes or lazy weekends. New smart tools streamline your communication and unleash creativity, from polished emails to personalized wallpapers. Access a world of entertainment and stay connected with video calls to loved ones. With Alexa integration, manage your smart home, update shopping lists, and set reminders effortlessly. The Fire HD 8 seamlessly blends productivity and entertainment in a sleek, portable package.
+
+Fire HD 8 offers an 8" HD display for seamless streaming and gaming, coupled with a 5MP rear facing camera for photos—with a thin, light, durable design.
+Responsive with all day battery life - Includes 3GB RAM (50% more than 2022 release), 32GB of storage, and up to 1 TB of expandable storage (sold separately). Up to 13 hours of reading, browsing the web, watching videos, gaming, and listening to music at home and on-the-go.
+Save time, get creative - Enjoy three new smart tools to help you send polished emails, quickly summarize webpages, and create unique wallpapers.
+Stream or download your favorite shows, movies, and games (like Minecraft, Roblox, and more). Enjoy your favorite content from Facebook, Hulu, Instagram, TikTok, and more through Amazon’s Appstore (Google Play not supported. Subscription for some apps required).
+Stay connected with family and friends - ask Alexa to make video calls to friends and family or download apps like Zoom.
+Do more with Alexa - Ask Alexa to listen to music, get news and weather, update shopping lists, and set reminders. Control your smart home, or ask Alexa to make video calls to friends and family with apps like Zoom.
+
+
+Fire Max 11 Tablet
+**********
+
+https://www.amazon.com/dp/B0B1VQ1ZQY
+
+Details
+
+Discover the Fire Max 11, a versatile companion designed to enhance every aspect of your daily life. Its vivid 11" screen, certified for low blue light, brings entertainment and productivity to life with stunning clarity. Powered by a robust octa-core processor and Wi-Fi 6, it effortlessly handles streaming, gaming, and multitasking. The sleek, durable aluminum body houses a long-lasting battery, perfect for on-the-go lifestyles. Expand your creativity with optional accessories, enjoy clear video calls, and seamlessly manage your smart home. With family-friendly features and Alexa integration, the Fire Max 11 adapts to your needs, from work presentations to bedtime stories, embodying the perfect balance of performance and versatility for the modern household.
+
+BIGGER, BRILLIANT, BEAUTIFUL — Vivid 11“ screen with 2.4 million pixels (2000 x 1200 resolution) lets you see every detail of your favorite movies, TV shows, and games. Certified for low blue light.
+MAX PERFORMANCE — Built with a powerful octa-core processor, 4 GB memory, and Wi-Fi 6 for fast streaming, responsive gaming, and quick multitasking.
+THIN AND LIGHT — Sleek aluminum design is also durable. It has strengthened glass and is 3 times as durable as the iPad 10.9-inch (10th generation) as measured in tumble tests.
+ALL-DAY ENTERTAINMENT — With 14-hour battery life, maximize your downtime for reading, browsing the web, watching videos, and listening to music at home and on-the-go. Save your favorites with 64 or 128 GB storage, and expand to up to 1 TB with micro-SD card (sold separately).
+VERSATILE FOR WORK AND PLAY — Optional Fire Max 11 Keyboard Case and/or Made for Amazon Stylus Pen (sold separately). Try Microsoft 365 Personal for 3 months (auto renews for $6.99/month after free trial, eligibility and terms apply).
+CLEAR COMMUNICATION — The 8 MP camera makes for clear calls to friends and family on Zoom.
+GREAT FOR FAMILIES — Amazon Kids offers easy-to-use parental controls on Fire tablets. Subscribe to Amazon Kids+ for access to thousands of books, popular apps and games, videos, songs, Audible books, and more (subscription rates apply).
+SMART-HOME READY — Ask Alexa for help with anything from recipes to jokes, or use Alexa App to control your connected devices at a touch.
 
 Fire TV Sound Bar Plus with Subwoofer
 **********
