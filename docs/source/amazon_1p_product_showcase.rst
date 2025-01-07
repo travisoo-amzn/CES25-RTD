@@ -1,4 +1,4 @@
-Amazon 1P Product Showcase - Alexa, Echo, Fire Tablets, Ring, Blink, eero
+Amazon 1P Product Showcase - Alexa, Echo, Ring, Blink, eero
 ###########
 
 .. image:: images/amazon_1p_product_showcase.png
@@ -146,14 +146,9 @@ Introducing the Blink Sync Module XR, a game-changing hub that expands the reach
 Echo Dot | Latin Grammys 2024 Edition
 **********
 
-[insert product link] 
-
 **Details**
- 
-[Insert placard copy]
 
-* [insert bulleted product details]
-* [insert bulleted product details]
+Amazon's Special Edition Amazon Devices program aims to create customized versions of Echo devices (including Pop, Dot, and Spot) to target core fans and provide unique experiences. The initiative seeks to boost customer acquisition, retention, and engagement while increasing smart home device adoption. The program has been implemented through various campaigns, such as NFL team-branded Echo Pops, artist collaborations on Amazon Music, and university merchandising. Distribution channels include Amazon.com, giveaways, retail stores, and partner channels. With this program, Amazon is able to create tailored experiences for specific customer segments while leveraging partnerships to enhance engagement with their Echo devices.
 
 
 Echo Dot | Southern University Human Jukebox Edition
@@ -163,10 +158,7 @@ https://www.thejukeboxnation.org/amazon-echo-dot
 
 **Details**
  
-[Insert placard copy]
-
-* [insert bulleted product details]
-* [insert bulleted product details]
+Amazon's Special Edition Amazon Devices program aims to create customized versions of Echo devices (including Pop, Dot, and Spot) to target core fans and provide unique experiences. The initiative seeks to boost customer acquisition, retention, and engagement while increasing smart home device adoption. The program has been implemented through various campaigns, such as NFL team-branded Echo Pops, artist collaborations on Amazon Music, and university merchandising. Distribution channels include Amazon.com, giveaways, retail stores, and partner channels. With this program, Amazon is able to create tailored experiences for specific customer segments while leveraging partnerships to enhance engagement with their Echo devices.
 
 
 Echo Frames
@@ -213,23 +205,15 @@ https://www.amazon.com/dp/B0D89DSFFX
 
 **Details**
  
-[Insert placard copy]
-
-* [insert bulleted product details]
-* [insert bulleted product details]
+Amazon's Special Edition Amazon Devices program aims to create customized versions of Echo devices (including Pop, Dot, and Spot) to target core fans and provide unique experiences. The initiative seeks to boost customer acquisition, retention, and engagement while increasing smart home device adoption. The program has been implemented through various campaigns, such as NFL team-branded Echo Pops, artist collaborations on Amazon Music, and university merchandising. Distribution channels include Amazon.com, giveaways, retail stores, and partner channels. With this program, Amazon is able to create tailored experiences for specific customer segments while leveraging partnerships to enhance engagement with their Echo devices.
 
 
 Echo Pop | Wicked Edition
 **********
 
-[insert product link] 
-
 **Details**
  
-[Insert placard copy]
-
-* [insert bulleted product details]
-* [insert bulleted product details]
+Amazon's Special Edition Amazon Devices program aims to create customized versions of Echo devices (including Pop, Dot, and Spot) to target core fans and provide unique experiences. The initiative seeks to boost customer acquisition, retention, and engagement while increasing smart home device adoption. The program has been implemented through various campaigns, such as NFL team-branded Echo Pops, artist collaborations on Amazon Music, and university merchandising. Distribution channels include Amazon.com, giveaways, retail stores, and partner channels. With this program, Amazon is able to create tailored experiences for specific customer segments while leveraging partnerships to enhance engagement with their Echo devices.
 
 
 Echo Show 8
