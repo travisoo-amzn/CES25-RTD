@@ -327,23 +327,6 @@ Transform your outdoor living space with eero Outdoor 7, a robust Wi-Fi solution
 *  BACKWARD COMPATIBLE - eero Outdoor 7 is backward compatible with all previous generations of eero and compatible with eero Built-in on select Amazon Echo devices.
 
 
-Panasonic Z85 Series with Fire TV
-**********
-
-https://www.amazon.com/dp/B0D97GB5HM
-
-**Details** 
-
-Introducing the Panasonic Z85 Series OLED 4K Ultra HD Smart TV with Fire TV—a masterpiece of visual and smart technology. Experience breathtaking picture quality with OLED brilliance, enhanced by Dolby Vision IQ and HDR10+ Adaptive for dynamic visuals. The 120Hz refresh rate ensures smooth motion for gaming and fast-paced action. Integrated Fire TV UI provides seamless access to your favorite streaming services, while built-in Alexa enables effortless voice control, making your entertainment experience smarter and more intuitive.
-
-* OLED 4K Ultra HD Smart TV with Fire TV
-* A Smart TV with Next-level Cinematic Picture Performance: The core OLED panel and HCX Pro AI Processor MKII finesses colour accuracy, contrast and clarity for step-up picture performance.
-* Multi HDR format with Optimized Picture: All HDR formats, HDR10, HDR10+, Dolby Vision, and HLG, are supported. With advanced intelligent sensing, HDR10+ Adaptive and Dolby Vision IQ deliver optimized natural picture that adjusts to room brightness.
-* Theater Surround Pro with Dolby Atmos: Impressive soundscapes, powerful bass with a built-in subwoofer, and crystal-clear dialogues. Together with Dolby Atmos, sound effects are precisely placed in virtual space and time to envelop you in the atmosphere.
-* Level Up Your Gaming: Game Mode Extreme supports the latest gaming features like HDMI2.1, 120Hz refrash rate, VRR, AMD FreeSync Premium, NVIDIA G-SYNC. A Game Control Board gives you easy access to gaming settings.
-
-
-
 Ring and Kidde Smart Smoke + CO Alarm
 **********
 
