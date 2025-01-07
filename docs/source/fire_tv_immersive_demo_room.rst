@@ -7,6 +7,14 @@ Fire TV Immersive Demo Room
 .. image:: images/fire_tv_immersive_demo_room_2.png
     :alt: Fire TV Immersive Demo Room Inside
 
+Demo Experience -- Dolby Atmos Content
+**********
+
+Attendees will enter the room 10-20 people at a time. Please tell them briefly about two products in the room -- the Fire TV Omni Mini-LED 85"  and the Fire TV Sound Bar Plus with Subwoofer and Surround speakers -- let the attendees know that they can leave at any time, then begin to play TV show and increase the volume. After about 1-2 mins, lower the volume and end the demo. Have the attendees exit through the door closest to the TV. 
+
+To keep things simple, we will play the TV show **Fallout** on Prime Video. If you find scenes that have a lot of action and really show off the audio, feel free to continue to play it.
+
+
 ⭐ Fire TV Omni Mini-LED 85" 
 **********
 
